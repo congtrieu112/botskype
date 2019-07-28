@@ -1,0 +1,6300 @@
+Array
+(
+    [text] => hello
+    [type] => message
+    [timestamp] => 2019-07-20T02:11:28.337Z
+    [id] => 1563588688236
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hello
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => haha
+    [type] => message
+    [timestamp] => 2019-07-20T02:15:52.545Z
+    [id] => 1563588952551
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => haha
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => Author
+    [type] => message
+    [timestamp] => 2019-07-20T02:17:03.471Z
+    [id] => 1563589023458
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => Author
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => tac gia
+    [type] => message
+    [timestamp] => 2019-07-20T02:17:13.34Z
+    [id] => 1563589033333
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => tac gia
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [type] => conversationUpdate
+    [id] => FBkZJmRcV2R
+    [timestamp] => 2019-07-20T02:26:52.3448375Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => ipdqmwxRdXFVJUC6UNIq0-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => ipdqmwxRdXFVJUC6UNIq0-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 911-cad-lite@_4C16nH6sBQ
+                    [name] => 911-cad-lite
+                )
+
+        )
+
+)
+Array
+(
+    [type] => conversationUpdate
+    [id] => GNkAL0YRI7w
+    [timestamp] => 2019-07-20T02:26:57.3195956Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => ipdqmwxRdXFVJUC6UNIq0-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => ipdqmwxRdXFVJUC6UNIq0-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6H6HaILQ5pt
+                    [name] => You
+                )
+
+        )
+
+)
+Array
+(
+    [type] => message
+    [id] => ipdqmwxRdXFVJUC6UNIq0-e|0000000
+    [timestamp] => 2019-07-20T02:26:57.3039687Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 6H6HaILQ5pt
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => ipdqmwxRdXFVJUC6UNIq0-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => hi bro
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsTts] => 1
+                    [supportsListening] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1563589612077.2762670454943288.0
+        )
+
+)
+Array
+(
+    [type] => conversationUpdate
+    [id] => D5JEvLT9mqN
+    [timestamp] => 2019-07-20T02:27:06.8668128Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => AZAElLQvso0FVA8dfY6jGT-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => AZAElLQvso0FVA8dfY6jGT-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 911-cad-lite@_4C16nH6sBQ
+                    [name] => 911-cad-lite
+                )
+
+        )
+
+)
+Array
+(
+    [type] => message
+    [id] => AZAElLQvso0FVA8dfY6jGT-e|0000000
+    [timestamp] => 2019-07-20T02:27:16.0574186Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 6H6HaILQ5pt
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => AZAElLQvso0FVA8dfY6jGT-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => chao bot trieu
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsTts] => 1
+                    [supportsListening] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1563589626657.5200394527815546.0
+        )
+
+)
+Array
+(
+    [type] => conversationUpdate
+    [id] => I5CML9zl74M
+    [timestamp] => 2019-07-20T02:29:24.4549412Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => FzkTLKs8Q8pGpLDvi3YB2X-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => FzkTLKs8Q8pGpLDvi3YB2X-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => 911-cad-lite@_4C16nH6sBQ
+            [name] => 911-cad-lite
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 911-cad-lite@_4C16nH6sBQ
+                    [name] => 911-cad-lite
+                )
+
+        )
+
+)
+Array
+(
+    [text] => hi bro
+    [type] => message
+    [timestamp] => 2019-07-20T02:40:13.441Z
+    [id] => 1563590413335
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi bro
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [action] => add
+    [type] => contactRelationUpdate
+    [timestamp] => 2019-07-20T02:41:07.059Z
+    [id] => f:10941f65-28f8-b1b7-3f50-2c063262dae5
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en
+                    [platform] => Windows
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en
+)
+Array
+(
+    [action] => add
+    [type] => contactRelationUpdate
+    [timestamp] => 2019-07-20T02:41:19.754Z
+    [id] => f:11e163bb-c820-3220-7d8c-5853f2d47006
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en
+                    [platform] => Windows
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en
+)
+Array
+(
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => image
+                    [contentUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d7-8fd03d5d2bec182751be114442918f87/views/original
+                    [thumbnailUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d7-8fd03d5d2bec182751be114442918f87/views/thumbnail
+                    [name] => 1-15604424911721762474305-150x150.jpg
+                )
+
+        )
+
+    [type] => message
+    [timestamp] => 2019-07-20T02:51:20.403Z
+    [id] => 1563591080294
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29:1EswWnXhhHaajBRzbZjTaeqruIFP4Lzh8tsmzWGu2R4w
+                )
+
+            [1] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-20T02:56:06.813Z
+    [id] => f:726fd9cf-1b7e-341b-6c0b-0aa1f279accc
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [text] => 911-cad-lite  hi bro
+    [type] => message
+    [timestamp] => 2019-07-20T02:59:23.767Z
+    [id] => 1563591563776
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1EswWnXhhHaajBRzbZjTaeqruIFP4Lzh8tsmzWGu2R4w
+            [name] => cong Trieu
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Web
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>  hi bro
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [action] => add
+    [type] => contactRelationUpdate
+    [timestamp] => 2019-07-20T03:03:57.588Z
+    [id] => f:f657e45a-1a7b-fe3c-3bfd-374779d57936
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1EswWnXhhHaajBRzbZjTaeqruIFP4Lzh8tsmzWGu2R4w
+            [name] => cong Trieu
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1EswWnXhhHaajBRzbZjTaeqruIFP4Lzh8tsmzWGu2R4w
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Web
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite tac gia
+    [type] => message
+    [timestamp] => 2019-07-20T03:12:05.811Z
+    [id] => 1563592325807
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> tac gia
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite  tac gia
+    [type] => message
+    [timestamp] => 2019-07-20T03:15:04.148Z
+    [id] => 1563592504135
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>  tac gia
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-20T03:36:49.276Z
+    [id] => f:8e5d9712-c64d-6406-096e-14e59cc3b2b4
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:9b31aec1d2a1409fb4313872050902ab@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [text] => CLI link
+    [type] => message
+    [timestamp] => 2019-07-20T03:50:50.638Z
+    [id] => 1563594650508
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => CLI link
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-20T03:51:20.778Z
+    [id] => f:45d27c14-3551-9a86-8776-4b41da68a2ca
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [text] => 911-cad-lite CLI link
+    [type] => message
+    [timestamp] => 2019-07-20T03:52:01.194Z
+    [id] => 1563594721182
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> CLI link
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite trieu
+    [type] => message
+    [timestamp] => 2019-07-20T05:19:51.204Z
+    [id] => 1563599991211
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> trieu
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite do u love me ??
+    [type] => message
+    [timestamp] => 2019-07-20T05:23:03.153Z
+    [id] => 1563600183153
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1XAZJwtRiOx6xiihcByxrZpMesgGAl8XVOYX-hCOv4dcNS4QNnWZ-QndpshxrHOaY
+            [name] => Chi Tran
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> do u love me ??
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite Author
+    [type] => message
+    [timestamp] => 2019-07-20T05:25:28.298Z
+    [id] => 1563600328234
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> Author
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite who is Trieu Công Công ??
+    [type] => message
+    [timestamp] => 2019-07-20T05:34:59.069Z
+    [id] => 1563600899074
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1XAZJwtRiOx6xiihcByxrZpMesgGAl8XVOYX-hCOv4dcNS4QNnWZ-QndpshxrHOaY
+            [name] => Chi Tran
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> who is Trieu Công Công ??
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [chao] => ban
+)
+Array
+(
+    [chao] => ban
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563619997
+)
+Array
+(
+    [chao] => ban
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563620278
+)
+{"id":"0:1w1RifGMA6oPMR2pclgjVSk0EhXWCH0TRAKtTk_cQbyFhpyzgUn2CzZjSVC33yGB3"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563620923
+)
+{"id":"0:1X9xMhkiXeHQXASu0skIL2Y1c7aDLzY-HEk_mwAXSTA2Q8sIiSXvMqh2OpAP3IOxD"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563621083
+)
+{"id":"0:1bKlO67LCPcqZXI45nx1Kbbw6brhDhRuiK5ZzOPWHMuh-iwxXuft0tUbQeAGp3s-XgBxZvHZQqwis2mUqnELULg"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563637177
+)
+{"id":"0:1pmxiwhwtBMXOdFUADj2njenoXThWr_w2gPAyYUql4TSYqlhgQ5dYjAVpZiulu8_klsdNt_-Lq55JF3L2qjjJgQ"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563637996
+)
+{"id":"0:1WYAOGTxas0_F4lWuykLUAloiatawB00MAhpDRoKgX34csp9BIofutYvngBC-31Vu"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638150
+)
+{"id":"0:1cwmOOIz4MhsoG-oai4F4-ho60odrvRk8nqtWkRTwLkx4QDihQIcF8Hxsp61vwx1O"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638151
+)
+{"id":"0:1UVs5AuspKq1zJAefQunIuObrKcC1Ok96jYm-UpjcQZU2dG7C8W9dcH8OXb-2mTT9"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638403
+)
+{"id":"0:1lgqZqDe7XMvkXS-zERCaIqIsb_AX6dmlgozj7rp1C1r0Km2aJESfrYnZmO20NKjZ"}Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638760
+)
+{"id":"0:1QAjCzSXH54BYSBmZXIFJvc4i4OQWz4rv_ZTEi9KlpgkrynGcD7C1WlvD8GscqMxm"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638761
+)
+{"id":"0:16ANeg030p_D8DtPBsubNc4rJ_o3i-OAv6BX6mC4gxaz5aedtJaeBfiA_83AZlYJN"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563638926
+)
+{"id":"0:1IAmsMsuk18E6PjM0WK1XNoQFhY6qFgTjINrjqr8F4nhwI3zXqfyF-pD71qpHPHhd"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563639325
+)
+{"id":"0:1X9FVGLGBZy5vcJhQV9q8HaUAF0oom7711dsubNaVRokb-wcwISJFK8UzWlwVHBgMBMvh9TA3ttMJWRa_T0cWEQ"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563639525
+)
+{"id":"0:1Y7EuR6553rum8VTcvYO1moPpdDGJOoEf9RTsWgX32X8Pfqqp0erdwEFSfm0VfppXhKHWoN-X8aE6LDfnlfoWgA"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563641396
+)
+{"id":"0:1T2tY0gZG96vcTIJXAH_oFq4B204hjk3ZqDPxqw1qVZyeIZGMNcvV6pFns-stZg7kXzlnl7NqAjOFZpcCLWGEUQ"}Array
+(
+    [text] => all bug real-time, no connection cua Trieu đã được deploy.
+QC trong quá trình test thì check xem còn bị ko nha
+    [type] => message
+    [timestamp] => 2019-07-22T02:18:12.181Z
+    [id] => 1563761892180
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1b-zY4XXxrqbw49DtsUpj780aBk71d0GZZGHMriTYbpI
+            [name] => Yen Ho
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => *
+                        )
+
+                    [text] => <at id="*">all</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Windows
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="*">all</at> bug real-time, no connection cua Trieu đã được deploy.
+QC trong quá trình test thì check xem còn bị ko nha
+        )
+
+    [locale] => en-US
+)
+{"id":"0:13aTBgWfKHyzn86-bgXZYlvfgEoU851iUrEpQchhCOTG0wjrzujNxuRNvsQSKnAe1"}Array
+(
+    [membersRemoved] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-22T02:18:33.808Z
+    [id] => f:9e5ce929-9867-c733-3088-cd232a849c3d
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1b-zY4XXxrqbw49DtsUpj780aBk71d0GZZGHMriTYbpI
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563777850
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563778044
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563779913
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563779917
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563780093
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563780952
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781165
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781167
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781168
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781238
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781240
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781240
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781569
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781592
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563781798
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563782098
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563782112
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563782537
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563782634
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563783119
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563784736
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563784816
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563784899
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563784979
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563786388
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787412
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787492
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787622
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787728
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787809
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563787933
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788059
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788142
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788358
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788574
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788659
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788788
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563788934
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789050
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789127
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789219
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789329
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789411
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789414
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789417
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789471
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789473
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789489
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563789523
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563790106
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563792498
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563793112
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563794007
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563794945
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563809292
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563809292
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563809292
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563809292
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850056
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850188
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850189
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850190
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850300
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563850300
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563851602
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563851879
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563851879
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563856849
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563858116
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563858116
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563859892
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563859892
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563863993
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563864002
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563864511
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563867100
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563867197
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563868720
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563870042
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563870310
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563870554
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563872502
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563873065
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563873217
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563874189
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563874838
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563876523
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563877176
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563877341
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563879253
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563879264
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563882849
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563883954
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563883954
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563895850
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [id] => 1563895851
+)
+{"error":{"code":"BotNotInConversationRoster","message":"The bot is not part of the conversation roster."}}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563898002
+)
+{"id":"0:1x-qi5KknfDwjSrXDOEnQgt-mQm942FjgS9Ji70UcfqWSO3l9eK0xi430ZV0RLHIdIlf-bCcVbOW1ivm6LLBTlw"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563932800
+)
+{"id":"0:14snyUmi91QXp5iQ0HV6RpVGGszl4IRx1NAttarh_MGtTHwjhv8inrCPQtX1hXhxf"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563936475
+)
+{"id":"0:1zEhOksBspgEmMv4qah7SjdwujZsjvdDRxkLfnKZIEpRm8IQmf5rn803fBz_1MgUf"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563936784
+)
+{"id":"0:1--YItsTUmWy0txLTtGEQo0SShZGt9T9uMZK2ZlV95VKjqrY_QQtjChRBn2iq2uI97xmsX4_iVRi5mWGNrCnGXA"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563936831
+)
+{"id":"0:1qkWYAYjbXCW3_x7RJKIkwI3BJ7veDr7i_h8elO_85gr2I2oB31WyassDxXjJFlucFC9rlIn_7Ux96rMCLgjNVA"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563938929
+)
+{"id":"0:1ferwrZjp7D91hkfiYJeEj6CiXAIoyqI3taqMb2AUabW43NuJt92mRIEPBhyl2Jy5"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563940502
+)
+{"id":"0:1T7PjAUuDtqhsTYCFZAMDw5HsL7oRCKKFxLYMsJW5AuOK2rdnKLZoXP9cz0jwJtbIKLYdQinAFQuiXxeBZAStjg"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563940759
+)
+{"id":"0:1p2Su7CHu-XhKO1TvfnWsmY9185BV3wpt-vUMiQG-XsAPvtPLnL3XzbakbSQUlQWC_i1zX178feesXIUUxNHyxw"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563940953
+)
+{"id":"0:1-vqFWQg5x8MR1UfxkfQS0IzR7tLPm-vgnOQ0QEEPQMMGwGJMNopRBRjA-32PiJ5t1rLZyX3eyKQAw1JvIqyXmQ"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563941014
+)
+{"id":"0:1GSc6CfoGhKeXruSdbmzuchEJb2ujtFBNCBeNUb8lHzQ-9NY7RTXoV9l-MUW1jb0u"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563942521
+)
+{"id":"0:1m_r12yD2AqAnx33G1rq0YTbyv7TSpzQFHQEk71fEDbnRSmbHTBvaGoNTqpFWx1Jh"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563942919
+)
+{"id":"0:1N3xoe7IwCPqzz__2PYGy-18sjO5modnbkzxTEFqh_TV6xaXY99lHwaXy_XdoBw7b"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563943590
+)
+{"id":"0:1Yi3BN3C8y7_hqwOmkA6wquPcZd0j9BqqQdeYQO1SB3L59NlnWo2CFjkf5ZGZ2Seq"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563946566
+)
+{"id":"0:1qhpreGeunm6jIE7VCyBPR6684Um0YRZBKMC_EhFqjgHbnJWE5xoVD_69kW6EAD5WnPfbgumTN-ezshvAFE-qUA"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563947256
+)
+{"id":"0:1Lx_YkYHR3lEuVHijVUveAFESqrnTUsj-szaPcRysDa-KlKUEdJ6x-Mmvvo_DVlgO"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563949421
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563949421
+)
+{"id":"0:1HA61lBO80uso_fD3fAT4ihs4pHp_dx52vArWXrc3qDCY2yoHXEK5HurP9RNV-HTf"}{"id":"0:1HO_L06ubHV2FDspmimNGqxuhnoBS5T85LTqF12hBfwfkDtM0eWIZNCCRHbym0sTdzv4fFz4GFB-ahk3OMnAqcg"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563950127
+)
+{"id":"0:1dFHJI0pAZGStlraPYPgLzZNnOKIqYqzX9Tws6th7zPqaBFn62Uz0Rc5MDjBwbuZpIyYn_Iz619KQJSIfOj067Q"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563950523
+)
+Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563950524
+)
+{"id":"0:12TRdpo4Bl8JSuZ3d6uiiHxhKpnI8cdf1wUrdOEpBctls5iDp0M5iMhbyGuHDpwgB"}{"id":"0:18txVdaT-7DmkvZxXgTEAXXeCdNByfV-94WYR5-z8w6_X7JuRYXimPKZmPM9ZlSKz"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563950820
+)
+{"id":"0:18AqsfivDyx8mAOrlkEYDbPG9waJYPGR8b8W_ekbjguaF_Kz7aJ6azhGT76P2wLcc"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563951567
+)
+{"id":"0:1ZNBUUEgJ6mOQ1t4Ln_qxbHiK1sD4XKjECHMOtC6rX3yn4aHoz6BT68m2bXAe4YzSgAQG7jjV9NFp4FvuED-dRg"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563951588
+)
+{"id":"0:17Sh0Wp4AHuPHZeYiCo03-RXdqyIes6n_5efPqah_RPspLv1yRdHVC_DK0h3ZgatK"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563955953
+)
+{"id":"0:16Se2ITn4Cuuy3lxA3NrsOFLuVRKoWxG7xcfHits6Ob_qB2votUD2dY24jwUHw5I5ytuhCtxO7xVQQ5auN5F_hw"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563956048
+)
+{"id":"0:1wSnkVvC-AuelzxJmL4PmMqsZ13qcoBFxmjuH_y5tbxS8sz2jA7BhiGUCmUMA-NZ8"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563956282
+)
+{"id":"0:1J8bKvJH3hDHif1GR0eA5SGLstRTMSEbT3m1jxaWPKKDrAayWTzVXiXwgEoHP5h1ueiqeqNypdwbIEHMN1V16ug"}Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+{"id":"0:1F8ORHAG8coUsZYCJ8xyX5hyRw3vhShn7r6eYB77nKmiXUJ3yvYFAsPkf1Lo4-2BKEHrm1mZLOIZfwRnCOlvnVA"}{"id":"0:1DzfUb6EtXPB5Px-vTJKDXWrMkoXanmpTXGhG2jtJmcnO4IbM7WSo62Mqv_CDbJ9fWQfIfBpaB-G3LNmwCJN9Xw"}{"id":"0:14U986k4muKWf52jaHIx4XsyEMe5jlr8F9T8IhLlNhSw_SCX4Qdujg2N98ZsUqHm4"}{"id":"0:1jb66uZZ4bCj03UaczgmsHBHhMZYZSCDsz57glwfmyUcZrMFI0egiwXeav1tNjXgaPaPlmgfWTcm9nCYBU26mhA"}{"id":"0:1LgPi27jUqMDHRi-HTMysusUd3sUplgaEtcOufFNQBm7QoG6uAs2MRPmEOusIf_O0"}Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958016
+)
+{"id":"0:1sCzn7oPsUrqqzsRhWfS0taGWm7OtGquWGcnJlhKCw87oWwBw9PFyT_SujoRZZtTb"}{"id":"0:1O5h59aDgIaagbkpiZxDiZ1qWJ1_mREYV0omnSCLts1qW7ZuGMt26r8bXK4x0yyZT"}Array
+(
+    [username] => admin@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958047
+)
+{"id":"0:1gCUQGa5cvS6o39V9lo6DlnTW-SG-tWcJxNSCbvS5MHEedHmQPYjjc6bnFwFOJDyP"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958315
+)
+{"id":"0:1SHURbapeQJYnSM9wTqHgzK6-wUvUjxAd0m-dWqV0nZEvMvJPx2XZ6PkngWEBSiFf"}Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958445
+)
+{"id":"0:1W7-R65ZbQMt7qIyAC3GlN2y0zFAH3NOyTueicizJX1M_sIRIuau8fAWE2y6VG90y"}Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958512
+)
+{"id":"0:1YuitQwXULBeNPG2g-KO6ksibD13DfHo65PDbRYec7suj-3rjta6lzwyB5U9aN-o3FYvtTsOrNFHCzUJHhE6Pcw"}Array
+(
+    [username] => khoangk@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563958849
+)
+{"id":"0:1qnq54eqfwYXt9hgNGGvXPEHkq1a_HXG8GJLZS9BRaH2jxgv7zvkLTqOl8ju2rqJaAXv0OXlVjdDx514IcHPxrQ"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563959010
+)
+{"id":"0:1uTODZi3pdDPNtT637zvpP0XAyvG4AXilM6_IuiLZAn2uRH89Pd83_sjx2B7mPc0V"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563962326
+)
+{"id":"0:1GTykjNSEWJlKrcVkbkzzD2iQl-GKHQli-FVbGr1CmPeXeVjxolM4Rv_X2arkhOkn"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563962694
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563962694
+)
+{"id":"0:1nzyJGFMdEh5LKtZf-NSgbKTFkrquHdCsqBDhqPcuumWobHhoVYXvzhelo_2wIovC"}{"id":"0:19gS2Iz64wJo98uIaYBLEPYcrqTso4A3S0AlJWWQU_V2xaiDWmK2l_mSjoxss_22Qf0XrDs4IXEfKua4M4RuS2w"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563962828
+)
+{"id":"0:1DnCTMjQYqDLlQJ4VJPoae8MNXThg5S5-qZXgo6m_wh7x9LVcBiikQDH8KgyiEzzs"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563962833
+)
+{"id":"0:1L6WTlKIp9-nuiLHtWI8mPJ2ZJiXcc13DlLMIV0xy8qimWVBuKlgKndYGqi1aqgmT"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563984047
+)
+{"id":"0:1J2SFGHuycKrBfLOlNQJsWWSaVv0PfFdjAiEQ-Ps129gdSi8nR4O8U-FeC1DUWT2qkKtEQ-C2tYfkNY8udsGM3g"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1563986218
+)
+{"id":"0:16yDSOYjCK039c6g685fcfW3zz0O2TlNaW8wKBj72n7yDBfWtw1sJOAFqCKs-SRNxFMjHs_w6qnfUL8RXC65Dew"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564008671
+)
+{"id":"0:1mrqKqGZ1kzHW6uNJtUEzgwQpcaLSSei2606TYQTqRkK7n3XEaO0TgDKjcVVV9Y0UBqHyuafqPMMRMTW1zFTmpQ"}Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564010450
+)
+{"id":"0:1kbrSe4mJvesnFr9D9KGAaTGkSWFmvZia1_1W-eXZBLXkca2bUPyiB70cuonbYfUvDCTqbaIPDLksLYVuWKMDCw"}Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564011629
+)
+{"id":"0:1VEHctRoAraYq-jIkmAgnolfmWFFGrjdAmRc9SNPTdS376aEablg6Pjr3FIdt2BLKLV80k-XZriG6wFaDxh6UiA"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564012079
+)
+{"id":"0:1ElqS2LmhVJrt9R1ISnE66KYHq-HfrLr9b3_5nW2RS4q2WJvZMXE7e2KzPBedcIn8"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564017318
+)
+{"id":"0:1vMUAekJmkUif4H3avJe7oGuQib8XJacwpB-Bz5zQAScSne7phAVcWGRSbceBCjp5"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564017322
+)
+{"id":"0:14FXtAIwzKQUB1sxZXifPFwhduUCLAtWw6HwJzoHFiy1VoNw3fI3J_MGLEO8Yl0o-2khatvp0soupFDA_g1-Pog"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564019315
+)
+{"id":"0:1bnWivaeD3imNtmISwFTlGo73Ytow_sRTdAP3x2tXaYwu9YWMR0Qm7DCDSjhPi6u1"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564019544
+)
+{"id":"0:1U9v3mTuqAEa4IJ6uKoIppJ8SbPcZjalQ5xyAfma4mbOm6bWB97NV6F9L_mJ5cvm9EjOBViLeA3zII0ExMz-GXA"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564019545
+)
+{"id":"0:1Cxyv4i3iizT2uNPXW9EfY17Ag2Eqzcj6IBMpqOvTJ6XZ71PjM2ejZZxivBCZ_xR1"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022770
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022770
+)
+{"id":"0:124IFeC5y60ksHtxXnBcqc8HFamnojaE6O37WEmuKf2-AquvfIhMt6kXiEr-wAO0r"}{"id":"0:1v81mbqtvuolb6IPBwzyJN8Ol3o-AdwGWNgexGbQ3WwQkMkafpEymOni65JnJw4uCS1CoyA7a1x7-U-ySCbbPNQ"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022797
+)
+{"id":"0:1icJbj71sHhkVOP5PpJhKSP35OnogMwgapWenkktha1qmuMgfhqolYvnh8UbrTQXvl0xIDz-OofdvecREgzFsrw"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022798
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022798
+)
+{"id":"0:1Iy5peM3hMhzGa6LD_uBlMl8w2QsCpp6wynF-x2ApLi-sakYMAPwrE8LQZfIus27l"}{"id":"0:1LUjZ3piYr1EsYiCapbY2UHpw4DORPw6Sc4YAkrYcHWbyZMkiMgFk8ObORZ1DEzgnMFygb0p6hxbsmUDV72xkzg"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022853
+)
+{"id":"0:1ZtEen_u5zlvxmOYuNwamZtJbQ7Ii1dJG8Jyy8hGZilfGKtQFP68gfGoRGp8rfvRrdry-34uog8055fUHMW_PuQ"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022854
+)
+{"id":"0:1vefJNgBBePWZ3oiOxDVuNaaEQOKuSyr8D74MB9p3S4aBFMSLqX8GWZ_EuoqwkkLKsbP5o88hQdx2OEOsqfih9w"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564022854
+)
+{"id":"0:1UwmRWabXgL7p0Pvh55gvjcUYtl39Lzh0lif2gNcMa0humhGYryKv7j2mwA54vjaa"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564023112
+)
+{"id":"0:1feCtzKDELdbuGR-3ywV-CJMyhdT2Pc_LCBxXa3gkJfXkJD-VhE5Dt_M5zKzdadGYEdz17JkD1H-nB1EvxWLlGw"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564024002
+)
+{"id":"0:18ax5yxtLSaxUUtX6wxPlfHrYYiw_iuc65R_EFg0KoR4EX2VWwHJXWZAjam1iSMLHXfPHk_04dixnGIhMWF5EPw"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564025481
+)
+{"id":"0:1B14SfAX3ARWEZI_VtppcNr_VrsT4pju66RdUjEgvPF0ijs388ZuZ54nCaN1Hno6O"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564026374
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564026374
+)
+{"id":"0:14sn1Re8k8ZlqLbc_8vqS2iDTOhxOsOtOdydpqR8ApjY55jtB51ZUfkC6nNeKU2DI8kAfpMpNrM6tS0eddzyOdA"}{"id":"0:1nTAurmTioxaXmIoVAYIebiqikX02N4gpeiSDIWXQxBjOqdqW-U7wHE3omZ5Rl7f3p3zs4pEfGVnhGWAOoVRORQ"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564026376
+)
+{"id":"0:1GQcDMSMB8Iu7JZv0CehemyvKY1tWzL8XHBMhTmcA2jPVOJLAnLKq6p2uZ06A3SjZ"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564027253
+)
+{"id":"0:13JkfCd0CWXEt2lRQnaXxXH6iGm3TJGH73w0N8PnYIqw0u-9rElBX-ZhcXwNmbJhx0-61lQo30nrFBbupf5ISYA"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564027406
+)
+{"id":"0:14-ZlVrBJdaEwHSEaVf0S3fKzQGJ0u57Eok4dT3hnE3TIL5mbDj1fF9pvULYogLCs"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564027642
+)
+{"id":"0:1YM2BUNzkjMdbIrxea3afrH_AEwWGHete5iF_vi5IY0mHVd9BaPutNERpjbonlP41"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564027852
+)
+{"id":"0:1YfqQ_Tu6rRctL8POkIbi-vSJUbIGr45S1FIoxnnPoWe9OxkWuIjnjI-EjJLBZfbW"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564027906
+)
+{"id":"0:1MSGJQ8mcqCjcgKoQ-7BOZRYptGe4l4yss3J2atroH3MtNbuPzSak33GaOJDqqcYzccnEOx9yPSocb1s5wZjQzA"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564028367
+)
+{"id":"0:1fwXZJpnJOnvsPljCX2o4g6pC4McP2QJ8osYAZRjawSlBqR_f9cX0H04GPAZWGa8P"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564032093
+)
+{"id":"0:1q8KwuXc8I6rl8PwvV-2KzLxXkj9JJmB5MZs24R3N4awsfoENolP_9MklphDxdbcvGBXQZNvKfVALACS5EOzPxg"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564033332
+)
+{"id":"0:1gRVmYcWyygn4GqdOYPPITJx0wvQdiRjvy5N-8s4VqoDvkvNf0QKmfnEPbBhlWnd2DCoXIkYlgO4hUbmW3iYP4w"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564034570
+)
+{"id":"0:16N43aUyYWdaWZf-uYe7Leu66LTTU1C62N8zNZTKAhx2uY1UOIKKlYT0-Id4q49Y4CiVGwbIMc4IL3wqY_6Izuw"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564035568
+)
+{"id":"0:1geCYTUEGoMHUChccmdzzmFf12lyYp9z9LAJ5AueBFp-2FTqunoNyncSwMlv98S6Qkb2MVCtpdrJQWFbCFgDNFw"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564035574
+)
+{"id":"0:1cBjA1GFup-50ITd3CGtPRyFnaZB-3IeMh99eRCmIAnlhbfsAvOxQUSwEy4-lAG3xifCwv5m5AYhTJBdjZR0YXQ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564035809
+)
+{"id":"0:1I2CTtCP4wjQG6emAqRpFKWIkt1JjB3_Hlw9rFkJmND1lqB2_Lg7q1VCUba1avhbOUAsUw8hCKNbXZwxkHKqTpw"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564035906
+)
+{"id":"0:1HrXhly9v-uuiaGRKxYink2ed2WzJqZLBjag8ExHwJm3iSH1h8AOP-3o0TO-m9WCa"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564036246
+)
+{"id":"0:1zbLWOIBnRSdPX9EovmnvQU2X1RUA5vhlZZomO8DUL5KC7Alcsytz2C31SwB588YfWpXjz7RadCdn6Iiuk8xG_g"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564036452
+)
+{"id":"0:1bH4gmaybSpJFUEsfnF6hQg7UOPsFgZP_dGdnavo-3cB_HkTy1vrvZ9iCd5xIIC8cjsnt5_TMb8_sTl_jiHoefQ"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564036983
+)
+{"id":"0:1em8VXHx4bRO_myeuLGJUefkYUKjpFO7Zy9KIYCNUFwblgHXSY3hS1_RVbjqOtbiE"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564037049
+)
+{"id":"0:1I6uNDqgigchW0iD1ggB6RTIJFH3bKkGXYv3mZ8HM2JNDWY1ubLbXA1REv4tqLXeD"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564038285
+)
+{"id":"0:1aHLIRXIrYmFwrBklq5rF4RcnwvV-sxU8rkXMDlDCAfkaT9f_bk-z0T_8PSosF4zU02yfcxyxTGgsmTxLUnEC2A"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564039524
+)
+{"id":"0:1BwhC-owNtO7V0zb2oUC_eMDosoTmHiF4Q66FzmLa5V-A7Kvvqz0OM7eysVFIZbxv"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564040701
+)
+{"id":"0:1skmOHb4-CKQBl0mCC208UMbK-7-_AFb_HSNPdkeEeYURwlBHK3WSKhQm2RuHvcmK5UNssZ3Sf3VJW0XGw2gGdQ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564040762
+)
+{"id":"0:1VDphoP1y-qIAO-epxmZACLPElTmRwhmNeAXMv-s-u2fE_PyRV8XRGNG5PYSNCtiM"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564042001
+)
+{"id":"0:1hZCEh0XNl8LqOc_OaIe5aqkiHePR_uLMOx4E0HLaH8F847ErsS5pktasfBU8BBGeE1P6RtnPgFMkQ5pQyVY3Qw"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564042199
+)
+{"id":"0:15DnFabD1YbKFzCV7Q4TnBDj3iO8Gh14RpKGq6mhZZmfbWRQ0pWrEmxElJuqBkNH2"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564042202
+)
+{"id":"0:1_lIMwiNJncguBrXhVMWJUvIUqqUoN_nidR0CYjU42YE5TO1o8YMi5OyCTfKQn4gFO-psjHKKmlRP2C4B0tzL8g"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564043239
+)
+{"id":"0:1ZHnCOzCb2fr9Q_arrcOuZvqZMQJy2AGXjSBJR2Rw_GM-JB-uKcRl2gxxahyFBGNs"}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564043736
+)
+{"id":"0:1OxOPAvmnsjUQC2EaJakio52-8H9vdsIAXPb9WA_KEPU_J3B79KfSRFb7W29b3xK8"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564044479
+)
+{"id":"0:13pyxnnYCiP5iKConK33QflrMRHIM-WCHfYIFEBsCvJAZW3RoZFo9JiO7ORJgVeDq-YlZ_f06pDb-hARUzospJA"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564045717
+)
+{"id":"0:1MCW3Z_zeCDHo_mOJbQzMDo0Lq6GxiqoiWtEkXzSDayeClXF-ykgorye81EhFrmOX"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564045792
+)
+{"id":"0:1h60M5Hgp2gk1hWPQnOh7boyic2ilFavcYaeMr69k9PytwXGuSeztpMPovqdIuuSl5mwCLBOTxCgvHvryAgSZFQ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564046956
+)
+{"id":"0:17Y-emQc3FRuLMjBKugajaOMldRmetVPX3S9zS1lC-4KWGRqcC3OorsPAaWnDSqQt-VNtkVY5YPeUVDu4i6w8qA"}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564047792
+)
+{"id":"0:10rK0QQqECHewVZWTFl4lQ_GRKVr86a2ew63v6M210zBTCtEtRkDWqZu9W8d8KOSW0Z9YYfAXLJapY184QKKoTw"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564047793
+)
+{"id":"0:1jbuUTy06tz9V5Ufx9cH41Frs7kbn3GDhnd_AcUX_rqmF2PAR46PPJY2qCWDJuFT9E3QQacOo9QQqcGtX0LKgLQ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564048192
+)
+{"id":"0:1gxbhbRl2z7vp_c455mXDxXJTzbBocAjXgfyvXhljGbE25cqsEkAhTEEr2-aBbDX3ihflTXWyZdCWOGN4pRNYuw"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564048227
+)
+{"id":"0:1pI_jpK9VNpVaIbwpjm9vJuSee9OXSZCyokDaccQR04IvCPJyLyZHRaO1YWBlzfGM"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049104
+)
+{"id":"0:1b0BIFTyvWkNQZphYVuB2yPMOgymqKi1XLDSRmadDLucGrCmE5OGqKnHdlWAOM0LeFGUuUJQt9GeIyNFbJ569Fg"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049229
+)
+{"id":"0:1TaZPva7xYgASzMvuBE_AanUE32chhyasdQYbIIhvZT3j1YnRODE4MHf6gZWfnzGHowtp35uFLz6d8f6RiRremQ"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049284
+)
+{"id":"0:1I8AtnZVJrzCdz14Ic0oTLn8pcEbrMnO5nq_I-IvZ7Qk1NpbL18p9VwsfzakAIKOx"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049431
+)
+{"id":"0:1DtUYfRBwOn_qEhiHU_XuZNcpmIWI275kdW5doyizspFzKGjpTjZl1AZiIu1wslnw"}Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049648
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564049648
+)
+{"id":"0:1jyU6vsna1311ZNocgVHVd3DypjMrv9U8XWf47_sjiBDZZeL-w4ekkATZgALKcNCvijwaHW5Pr_EhhVtLVWhLDA"}{"id":"0:1RGgFd_qmNpFWGfJ8onm7WqJApJOvthcIknBd7Po2FL7MaeQsGztu-CVLtnkOnX_o"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564050670
+)
+{"id":"0:1Rg8OT-geWkU8rYRTUL6c818KbEVv8zarosazEEiNoptwIy6PGkq09JJlKawkRbB9"}Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-25T10:31:53.375Z
+    [id] => f:ad8e16ac-38f5-c0be-142c-c2895d0a96e6
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+{"id":"0:1gRPxThplbDDzXxALo_PZ85ALX3ju2Q2olhfmfhI2KB-5Ji6B0knV1ttqUcek_8D1"}Array
+(
+    [text] => alo all dev, CLI đang bị bug 500
+    [type] => message
+    [timestamp] => 2019-07-25T10:42:22.668Z
+    [id] => 1564051342447
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1XxkvJV-ywSfVTrjZ9udAtlBNtw7bzRI88vmWbdx9r9M
+            [name] => Diep Quach
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => *
+                        )
+
+                    [text] => <at id="*">all</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => alo <at id="*">all</at> dev, CLI đang bị bug 500
+        )
+
+    [locale] => en-US
+)
+{"id":"0:1w0OwQP-n5ZUg8Vh85Soh84uhjYbDsPk4qSqtw48aWKa93pQZQsuX8R6VDMeqIXj_CF_vQevxEAzxVuP_fJyzyQ"}Array
+(
+    [text] => được lại rồi nha all 
+    [type] => message
+    [timestamp] => 2019-07-25T10:45:19.615Z
+    [id] => 1564051519591
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1qtjRoaYp7NzPN89OXq08LGe3B6jRBx-QmjFL6fb20w8
+            [name] => Tín Phan
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => *
+                        )
+
+                    [text] => <at id="*">all</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Windows
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => được lại rồi nha <at id="*">all</at> 
+        )
+
+    [locale] => en-US
+)
+{"id":"0:1Wf-gNSFRxE4AxewKTQx2rgpylMfZSHstE_9dmNa1zSHAmT4knI0VfDpShLjHFsOH"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564051909
+)
+{"id":"0:1W2fYu54dUDshrRG6khzcW7MqViuy0g92gMEP-2LGB4XVE1N3Cs4GAT_UAD_DkFDt"}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052100
+)
+{"id":"0:1O-_cxUYpdS28lQhaVEXZ19O8dfhHIB2PV3MIy8r0zfxCZhg6Vk1LBcfaIRkBa3In"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052102
+)
+{"id":"0:1_5PKi5Z9Ge4DX_89uOYZWgJb2Phs5sJpeBXBDYXxkFyDSmVvUppoVE52Se6XcjXD"}Array
+(
+    [text] => backend deploy code mới lên hết rồi nha all 
+    [type] => message
+    [timestamp] => 2019-07-25T11:07:44.107Z
+    [id] => 1564052864056
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1qtjRoaYp7NzPN89OXq08LGe3B6jRBx-QmjFL6fb20w8
+            [name] => Tín Phan
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => *
+                        )
+
+                    [text] => <at id="*">all</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Windows
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => backend deploy code mới lên hết rồi nha <at id="*">all</at> 
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052941
+)
+{"id":"0:1LpZYEjqDA_kDBazzJ_AaMbkaWZEfGmJeXz2rLA-SDZ9gXySxLbHTKyq6611mDiOg"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052941
+)
+{"id":"0:1b_5igi8S2YeXGXoIYmTGl0vTf33RHQ0SZ5vOXia-eF2tejW9mhAKfLIVEGfZJ3Ya"}Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052959
+)
+{"id":"0:1t5DueJBOfB-Fo8FAj_196qIUBkG3X237df5qqXCsLiVsrGmMJxCIlLo6OaJF1ngB"}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052962
+)
+{"id":"0:1k1KBhUGO5FmVrvyASz81tmqcvV2PeKSXeWOY8AjbzOd95BH6uT4GikG5HMVnfhdpivhIZqJNFRlJ4e28PBu6vA"}Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052984
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052984
+)
+{"id":"0:1WC4-94V2nxoO8KMqJR0urtK-lyz8VqfE9wCEiEDPdtp3PYDV0pwm9JtvrsJIKjK68Sbff_k5ts9AinqUqixq_Q"}{"id":"0:1-yNpH8_YdkZiyUbouprzZXKJVDoxfeoZdgA2fYIg7EWVtEi73M-gnty5QrD8etq3tYde7y0n5gAeWXQgYvFHZA"}Array
+(
+    [username] => diepquach@yopmail.com
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564052987
+)
+{"id":"0:1RE8cObcNu9eTDGMV4fvcG35IOVinR9qt6YbstWbsx4yBFwbV-9ur2vo_uQiirNy5"}Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564053030
+)
+{"id":"0:1EPGcyTgJyZ_ZOhIYtkiAjW1bcjD-XN4wq7orU8ATX_DH-uvWf4EWvCba_i6zxPqk"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564053147
+)
+{"id":"0:1BJ7qmDmX4dZxoB61FRIJem_SvN2BFj8XSpzs88qXylr8R8DPz-fTwGbERKlHL2ac"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564054386
+)
+{"id":"0:1vDVT3DgWwqu-TSvMaySaPdTVXCeaTGwN4v6UlM4bdhaNwCISDhTplEA43L9SscOw"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564054912
+)
+{"id":"0:1B6gnAQOLxSfH0AYVgB7dMaJycOOyDZH-Lq1B2BEKG_QCyumQjgmriCsMphBEfY18"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564055168
+)
+{"id":"0:190tADUwRpkmoZdqH1xUIe58fZk2XoUGmNcUMLygjf4c5-kxAFthK8j48-sSqsEtJ6vvEpK744X-gvQ3jHVNryA"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564055625
+)
+{"id":"0:16VIIBtVCIkeAAW-qlrHlS1zl9igF4SISoBDLnXRjVbbwl4kXBuxD4LOlmMlFGl2uDODtaULqTJpO_N0nMc6qjg"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564056863
+)
+{"id":"0:1qtLRYSUqaEC6sbSz-XxY2xDYq1dm4zu_Uy6fwIIAVlwikg1ocT0Ssxm2HmTVhrFkBFFaI7f0iG6uJHWe_t8cJg"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564058102
+)
+{"id":"0:1bSoK6ik-3ePUubJ_t4iWPEtMauCkbfWg4-BQfH6eReWx69JQW2mMY_71lj3Fn3vh"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564059341
+)
+{"id":"0:1rrYBOkjMWXgShLHP2sfS0SV_1pd_5IG_vn1iTr3psQgrML8W-kSQCAhwIYqapvgJ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564060287
+)
+{"id":"0:16Etj9DbQydore__6LegreAxgwAfWOcJfMoSmdhLu2083852ld15xiQTSIZTYYbbphHgYozo-gYjzxV0LtTzBRQ"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564062027
+)
+{"id":"0:1NpRbpjgw4zGe-k5VTcWKguAN97Z85Tn3dGajs-IAq3B6AjYmvHGIUhNNguuh3whb"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564063267
+)
+{"id":"0:1beX-dj00GSmL0aO-sDeLhKEa8ZAG8fey-QDEXlmqWF3X4DdL3OgfF3aIxyPW3hTt"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564064411
+)
+{"id":"0:1ckI4zmOISrXmx-GNDwbhMoBa1m0ir5YykXT3PS847uY85l-Uh2FswTaKjoSOb5g5fVGAIO0HlUlxrn5J8P4E0Q"}Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [conversation] => Array
+        (
+            [id] => 19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype
+        )
+
+    [id] => 1564066142
+)
+{"id":"0:1A_khl6E2pBdQ1pn_CHSIRMhwAxsdvF4RfSoEQz4uiseZE-nAi8JZzl8AfpttkWbryp6mS6N9noHtAWxgncDkQg"}Array
+(
+    [username] => trieudc@devblock.net
+)
+{"error":{"code":"BadArgument","message":"Activity must include non empty 'text' field or at least 1 attachment"}}Array
+(
+    [username] => joe@devblock.net
+)
+{"error":{"code":"BadArgument","message":"Activity must include non empty 'text' field or at least 1 attachment"}}Array
+(
+    [username] => joe@devblock.net
+)
+{"id":"0:1nY6RVj29NUxBdAdpJMM29ARUAtS6svx2Oi9v1imzEDNsBlvpyxGIAGDGeFCFIaKx"}Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [report] => true
+    [mesage] => start build FE
+)
+Array
+(
+    [report] => true
+    [mesage] => start build FE
+)
+Array
+(
+    [report] => true
+    [message] => start build FE
+)
+Array
+(
+    [report] => true
+    [message] => start build FE
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Errorr 
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [membersRemoved] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-26T03:03:13.536Z
+    [id] => f:515945d6-8a1a-077d-2d56-ae80288b199b
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => testsuperadmin3@eemail.com
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-26T07:52:14.838Z
+    [id] => f:a2d4fc6f-f36e-ca2e-c7fd-de153bb44b7a
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:92d297c1dc444488839f7fc46486ba9b@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [text] => hi 911-cad-lite 
+    [type] => message
+    [timestamp] => 2019-07-26T07:54:41.454Z
+    [id] => 1564127681456
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1b-zY4XXxrqbw49DtsUpj780aBk71d0GZZGHMriTYbpI
+            [name] => Yen Ho
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:92d297c1dc444488839f7fc46486ba9b@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Windows
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> 
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 29:1c3owWXWAQ5MS--_dNzZRtH_IEC4EEzgOMDrMmeuvHyk
+                )
+
+        )
+
+    [type] => conversationUpdate
+    [timestamp] => 2019-07-26T07:56:18.243Z
+    [id] => f:108fca84-ad92-fa1d-45e1-188da78fd2c1
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:92d297c1dc444488839f7fc46486ba9b@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+)
+Array
+(
+    [text] => hi 911-cad-lite 
+    [type] => message
+    [timestamp] => 2019-07-26T08:04:48.237Z
+    [id] => 1564128288244
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:92d297c1dc444488839f7fc46486ba9b@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at> 
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => 911-cad-lite  tac gia
+    [type] => message
+    [timestamp] => 2019-07-26T08:05:21.948Z
+    [id] => 1564128321932
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1DV3oJ1e7UKEzlzwq_DcQD7vYqgxdeEvsPAhBmC1G9B0
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [isGroup] => 1
+            [id] => 19:92d297c1dc444488839f7fc46486ba9b@thread.skype
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+            [name] => 911-cad-lite
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [mentioned] => Array
+                        (
+                            [id] => 28:61895880-140b-46f8-9c9f-3777391c8938
+                        )
+
+                    [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>
+                    [type] => mention
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <at id="28:61895880-140b-46f8-9c9f-3777391c8938">911-cad-lite</at>  tac gia
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [report] => 1
+    [message] => Server BackEnd Error
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => diepqtn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => phuongnt@devblock.net
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => locuser@gmail.com
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => yenhn@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => trieudc@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [search] => mon an ngon
+)
+Array
+(
+    [search] => mon an ngon
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => fatima@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)
+Array
+(
+    [username] => joe@devblock.net
+)

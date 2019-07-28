@@ -1,0 +1,2910 @@
+Array
+(
+    [text] => hi ai
+    [type] => message
+    [timestamp] => 2019-07-26T01:27:48.201Z
+    [id] => 1564104468194
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi ai
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => chao
+    [type] => message
+    [timestamp] => 2019-07-26T02:07:26.274Z
+    [id] => 1564106846173
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => chao
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => tac gia
+    [type] => message
+    [timestamp] => 2019-07-26T02:07:44.768Z
+    [id] => 1564106864751
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => tac gia
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => author
+    [type] => message
+    [timestamp] => 2019-07-26T02:08:03.07Z
+    [id] => 1564106883064
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => author
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [text] => chao
+    [type] => message
+    [timestamp] => 2019-07-26T02:08:10.334Z
+    [id] => 1564106890314
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => chao
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [search] => mon an ngon
+)
+Array
+(
+    [search] => mon an ngon
+)
+Array
+(
+    [text] => e ku
+    [type] => message
+    [timestamp] => 2019-07-27T02:37:42.667Z
+    [id] => 1564195062659
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => e ku
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [report] => true
+    [message] => chao
+)
+Array
+(
+    [report] => true
+    [message] => chao
+)
+Array
+(
+    [search] => mon hue
+    [message] => chao
+)
+Array
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+co vao dayArray
+(
+    [search] => mon hue
+    [message] => chao
+)
+
+Array
+(
+    [report] => true
+    [message] => chao
+)
+Array
+(
+    [report] => true
+    [message] => <a href='https://skypeappregistration.azurewebsites.net/bot/561bae84-ea1c-4f75-a512-b84566779c2c'><img src='https://dev.botframework.com/ChannelConfigs/Images/skypeforbusiness/Add-To-SkypeForBusiness-Buttons.png'></a>
+)
+Array
+(
+    [report] => true
+    [message] => <strong>text</strong>
+)
+Array
+(
+    [report] => true
+    [message] => <strong>text</strong>
+)
+{"id":"0:1VWecNPIR-D0OeZzE4ONCJmprTGxP3XxZx9waDaarSO2ir63L2R4-Tni3ENxwt8KzwcyxIz1COj9ACS2hUiOzhQ"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"<strong>text<\/strong>","attachments":[],"replyToId":1564196749}Array
+(
+    [report] => true
+    [message] => **text**
+)
+{"id":"0:1rDJoebgy_971NyF2bW_nKxZV8Km9vPAKdbffxcxZuQAtTk8fr4nremdxghEf57iV"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"**text**","attachments":[],"replyToId":1564196818}Array
+(
+    [report] => true
+    [message] => ![Duck on a rock](http://aka.ms/Fo983c)
+)
+{"id":"0:1Zimun-yvCDyz2KEdvXCOI-vOfTMaC4iI1YCtMZ4hFMMqWRMsPtxIbf9aY256iX08FRj5-Q0MKm09ElWtbR2iwA"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"![Duck on a rock](http:\/\/aka.ms\/Fo983c)","attachments":[],"replyToId":1564196883}Array
+(
+    [report] => true
+    [message] => ![Duck on a rock](http://aka.ms/Fo983c)
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}],"from":null,"recipient":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"text":"![Duck on a rock](http:\/\/aka.ms\/Fo983c)","replyToId":1564197573}Array
+(
+    [report] => true
+    [message] => ![Duck on a rock](http://aka.ms/Fo983c)
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"contentType":"application\/vnd.microsoft.teams.card.o365connector","content":{"@type":"MessageCard","@context":"http:\/\/schema.org\/extensions","summary":"Summary","title":"Connector Card HTML formatting","sections":[{"text":"This is some <strong>bold<\/strong> text"},{"text":"This is some <em>italic<\/em> text"},{"text":"This is some <strike>strikethrough<\/strike> text"},{"text":"<h1>Header 1<\/h1>\r<h2>Header 2<\/h2>\r <h3>Header 3<\/h3>"},{"text":"bullet list <ul><li>text<\/li><li>text<\/li><\/ul>"},{"text":"ordered list <ol><li>text<\/li><li>text<\/li><\/ol>"},{"text":"hyperlink <a href=\"https:\/\/www.bing.com\/\">Bing<\/a>"},{"text":"embedded image <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img>"},{"text":"preformatted text <pre>text<\/pre>"},{"text":"Paragraphs <p>Line a<\/p><p>Line b<\/p>"},{"text":"<blockquote>Blockquote text<\/blockquote>"}]},"from":null,"recipient":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"text":"![Duck on a rock](http:\/\/aka.ms\/Fo983c)","replyToId":1564197884}Array
+(
+    [report] => true
+    [message] => <p>bold: <strong>Bold Text</strong></p><p>italic: <em>Italic Text</em></p><p>strikethrough: <strike>Strikethrough text</strike></p><h1>Header 1</h1><h2>Header 2</h2><h3>Header 3</h3><p>bullet list: <ul><li>text</li><li>text</li></ul></p><p>ordered list: <ol><li>text</li><li>text</li></ol></p><pre>preformatted text</pre><blockquote>blockquote text</blockquote></p><p>hyperlink: <a href="https://www.bing.com/">Bing</a></p><p>embedded image: <img src="http://aka.ms/Fo983c" alt="Duck on a rock"></img></p>
+)
+{"error":{"code":"ServiceError","message":"Unknown"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"<p>bold: <strong>Bold Text<\/strong><\/p><p>italic: <em>Italic Text<\/em><\/p><p>strikethrough: <strike>Strikethrough text<\/strike><\/p><h1>Header 1<\/h1><h2>Header 2<\/h2><h3>Header 3<\/h3><p>bullet list: <ul><li>text<\/li><li>text<\/li><\/ul><\/p><p>ordered list: <ol><li>text<\/li><li>text<\/li><\/ol><\/p><pre>preformatted text<\/pre><blockquote>blockquote text<\/blockquote><\/p><p>hyperlink: <a href=\"https:\/\/www.bing.com\/\">Bing<\/a><\/p><p>embedded image: <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img><\/p>","attachments":[],"replyToId":1564198021}Array
+(
+    [report] => true
+    [message] => <p>bold: <strong>Bold Text</strong></p><p>italic: <em>Italic Text</em></p><p>strikethrough: <strike>Strikethrough text</strike></p><h1>Header 1</h1><h2>Header 2</h2><h3>Header 3</h3><p>bullet list: <ul><li>text</li><li>text</li></ul></p><p>ordered list: <ol><li>text</li><li>text</li></ol></p><pre>preformatted text</pre><blockquote>blockquote text</blockquote></p><p>hyperlink: <a href="https://www.bing.com/">Bing</a></p><p>embedded image: <img src="http://aka.ms/Fo983c" alt="Duck on a rock"></img></p>
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"type":"MessageCard","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"<p>bold: <strong>Bold Text<\/strong><\/p><p>italic: <em>Italic Text<\/em><\/p><p>strikethrough: <strike>Strikethrough text<\/strike><\/p><h1>Header 1<\/h1><h2>Header 2<\/h2><h3>Header 3<\/h3><p>bullet list: <ul><li>text<\/li><li>text<\/li><\/ul><\/p><p>ordered list: <ol><li>text<\/li><li>text<\/li><\/ol><\/p><pre>preformatted text<\/pre><blockquote>blockquote text<\/blockquote><\/p><p>hyperlink: <a href=\"https:\/\/www.bing.com\/\">Bing<\/a><\/p><p>embedded image: <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img><\/p>","attachments":[],"replyToId":1564198104}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"hi","attachments":"{\n            \"$schema\": \"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json\",\n            \"type\": \"AdaptiveCard\",\n            \"version\": \"1.0\",\n            \"body\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"This is some **bold** text\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"This is some _italic_ text\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"- Bullet \\r- List \\r\",\n                    \"wrap\": true\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"1. Numbered\\r2. List\\r\",\n                    \"wrap\": true\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Check out [Adaptive Cards](http:\/\/adaptivecards.io)\"\n                }\n            ]\n        }","replyToId":1564198735}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"text":"hi","attachments":{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}]},"replyToId":1564198810}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":1564199049,"text":"hi"}Array
+(
+    [text] => hi bro
+    [type] => message
+    [timestamp] => 2019-07-27T03:47:41.432Z
+    [id] => 1564199261303
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi bro
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564199261303","text":" Bot AI is sad, can't answer? "}Array
+(
+    [text] => hi be
+    [type] => message
+    [timestamp] => 2019-07-27T03:51:50.737Z
+    [id] => 1564199510727
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi be
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564199510727","text":" Bot AI is busy studying "}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}},"replyToId":1564199532,"text":"hi"}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":1564199681,"text":"hi"}Array
+(
+    [report] => true
+    [message] => hi
+)
+{"error":{"code":"BadArgument","message":"ContentType of an attachment is not set"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}]}],"replyToId":1564199790,"text":"hi"}Array
+(
+    [report] => true
+    [message] => hi nha
+)
+{"error":{"code":"BadSyntax","message":"Attachment type isn’t supported by channel"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.teams.card.o365connector","$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}]}],"replyToId":1564199954,"text":"hi nha"}Array
+(
+    [report] => true
+    [message] => hi nha
+)
+{"error":{"code":"BadArgument","message":"No content in an attachment"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}]}],"replyToId":1564200006,"text":"hi nha"}Array
+(
+    [report] => true
+    [message] => hi nha
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"This is some **bold** text"},{"type":"TextBlock","text":"This is some _italic_ text"},{"type":"TextBlock","text":"- Bullet \r- List \r","wrap":true},{"type":"TextBlock","text":"1. Numbered\r2. List\r","wrap":true},{"type":"TextBlock","text":"Check out [Adaptive Cards](http:\/\/adaptivecards.io)"}]}}],"replyToId":1564200136,"text":"hi nha"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"error":{"code":"BadSyntax","message":"Attachment type isn’t supported by channel"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.teams.card.o365connector","content":{"@type":"MessageCard","@context":"http:\/\/schema.org\/extensions","summary":"Summary","title":"Connector Card HTML formatting","sections":[{"text":"This is some <strong>bold<\/strong> text"},{"text":"This is some <em>italic<\/em> text"},{"text":"This is some <strike>strikethrough<\/strike> text"},{"text":"<h1>Header 1<\/h1>\r<h2>Header 2<\/h2>\r <h3>Header 3<\/h3>"},{"text":"bullet list <ul><li>text<\/li><li>text<\/li><\/ul>"},{"text":"ordered list <ol><li>text<\/li><li>text<\/li><\/ol>"},{"text":"hyperlink <a href=\"https:\/\/www.bing.com\/\">Bing<\/a>"},{"text":"embedded image <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img>"},{"text":"preformatted text <pre>text<\/pre>"},{"text":"Paragraphs <p>Line a<\/p><p>Line b<\/p>"},{"text":"<blockquote>Blockquote text<\/blockquote>"}]}}],"replyToId":1564200260,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"error":{"code":"BadSyntax","message":"Attachment type isn’t supported by channel"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.teams.card.o365connector","content":{"@type":"MessageCard","@context":"http:\/\/schema.org\/extensions","summary":"Summary","title":"Connector Card HTML formatting","sections":[{"text":"This is some <strong>bold<\/strong> text"},{"text":"This is some <em>italic<\/em> text"},{"text":"This is some <strike>strikethrough<\/strike> text"},{"text":"<h1>Header 1<\/h1>\r<h2>Header 2<\/h2>\r <h3>Header 3<\/h3>"},{"text":"bullet list <ul><li>text<\/li><li>text<\/li><\/ul>"},{"text":"ordered list <ol><li>text<\/li><li>text<\/li><\/ol>"},{"text":"hyperlink <a href=\"https:\/\/www.bing.com\/\">Bing<\/a>"},{"text":"embedded image <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img>"},{"text":"preformatted text <pre>text<\/pre>"},{"text":"Paragraphs <p>Line a<\/p><p>Line b<\/p>"},{"text":"<blockquote>Blockquote text<\/blockquote>"}]}}],"replyToId":1564200457,"text":"hi moi"}Array
+(
+    [text] => hi bot
+    [type] => message
+    [timestamp] => 2019-07-27T04:09:50.466Z
+    [id] => 1564200590304
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hi bot
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564200590304","text":" Teaching Bot AI to not understand "}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"error":{"code":"BadArgument","message":"Invalid JSON"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[null],"replyToId":1564200902,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/contoso.com\/media\/AllegrofromDuetinCMajor.mp3"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564201055,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn\/97366d7f4738ae66f729\/465611020948694906?authen=exp=1564278347~acl=\/97366d7f4738ae66f729\/*~hmac=de1d504047a22d1ea0e0e93fe8260c94"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564201174,"text":"hi moi"}Array
+(
+    [text] => chao
+    [type] => message
+    [timestamp] => 2019-07-28T07:56:43.278Z
+    [id] => 1564300603172
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => chao
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564300603172","text":" Bot AI is busy studying "}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn\/97366d7f4738ae66f729\/465611020948694906?authen=exp=1564278347~acl=\/97366d7f4738ae66f729\/*~hmac=de1d504047a22d1ea0e0e93fe8260c94"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564300637,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f"}],"image":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg","shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564301339,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => hi moi
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f"}],"image":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg","shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564301401,"text":"hi moi"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"error":{"code":"BadSyntax","message":"Payload is incorrect"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f"}],"image":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg","shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564301708,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn\/97366d7f4738ae66f729\/465611020948694906?authen=exp=1564278347~acl=\/97366d7f4738ae66f729\/*~hmac=de1d504047a22d1ea0e0e93fe8260c94"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":1564301737,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"image\/png","contentUrl":"https:\/\/aka.ms\/DuckOnARock","name":"duck-on-a-rock.jpg"}],"replyToId":1564302052,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg"}],"replyToId":1564302146,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564302504,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => [!VIDEO https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4]
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"recipient":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"replyToId":1564304352,"text":"[!VIDEO https:\/\/adaptivecardsblob.blob.core.windows.net\/assets\/AdaptiveCardsOverviewVideo.mp4]"}Array
+(
+    [report] => true
+    [message] => email
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"replyToId":1564304515,"text":"email"}Array
+(
+    [report] => true
+    [message] => email
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"replyToId":1564304668,"text":"email"}Array
+(
+    [report] => true
+    [message] => email
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}{"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"replyToId":1564304731,"text":"email"}Array
+(
+    [report] => true
+    [message] => email
+)
+"{\n            \"type\": \"message\",\n            \"locale\": \"en-Us\",\n            \"channelID\": \"email\",\n            \"from\": { \"id\": \"ittrjeu@gmail.com\", \"name\": \"My bot\"},\n            \"recipient\": { \"id\": \"congtac.net@gmail.com\", \"name\": \"Joe Doe\"},\n            \"conversation\": { \"id\": \"123123123123\", \"topic\": \"awesome chat\" },\n            \"channelData\":\n            {\n                \"htmlBody\": \"<html><body style = \/\"font-family: Calibri; font-size: 11pt;\/\" >This is more than awesome.<\/body><\/html>\",\n                \"subject\": \"Super awesome message subject\",\n                \"importance\": \"high\",\n                \"ccRecipients\": \"abcwebclass@gmail.com;congtrieuremember@yahoo.com\"\n            }\n        }"{"error":{"code":"BadArgument","message":"Unknown activity type"}}Array
+(
+    [report] => true
+    [message] => email
+)
+Array
+(
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [replyToId] => 1564304869
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}Array
+(
+    [report] => true
+    [message] => email
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}Array
+(
+    [report] => true
+    [message] => email
+)
+{
+            "type": "message",
+            "locale": "en-Us",
+            "channelID": "email",
+            "from": { "id": "ittrjeu@gmail.com", "name": "My bot"},
+            "recipient": { "id": "congtac.net@gmail.com", "name": "Joe Doe"},
+            "conversation": { "id": "123123123123", "topic": "awesome chat" },
+            "channelData":
+            {
+                "htmlBody": "<html><body style = /"font-family: Calibri; font-size: 11pt;/" >This is more than awesome.</body></html>",
+                "subject": "Super awesome message subject",
+                "importance": "high",
+                "ccRecipients": "abcwebclass@gmail.com;congtrieuremember@yahoo.com"
+            }
+        }{"error":{"code":"BadArgument","message":"Unknown activity type"}}Array
+(
+    [report] => true
+    [message] => email
+)
+{"error":{"code":"BadArgument","message":"Unknown activity type"}}Array
+(
+    [report] => true
+    [message] => email
+)
+Array
+(
+    [type] => message
+    [locale] => en-Us
+    [channelID] => email
+    [from] => Array
+        (
+            [id] => ittrjeu@gmail.com
+            [name] => My bot
+        )
+
+    [recipient] => Array
+        (
+            [id] => congtac.net@gmail.com
+            [name] => Joe Doe
+        )
+
+    [conversation] => Array
+        (
+            [id] => 123123123123
+            [topic] => awesome chat
+        )
+
+    [channelData] => Array
+        (
+            [htmlBody] => <html><body style = "font-family: Calibri; font-size: 11pt;" >This is more than awesome.</body></html>
+            [subject] => Super awesome message subject
+            [importance] => high
+            [ccRecipients] => abcwebclass@gmail.com;congtrieuremember@yahoo.com
+        )
+
+)
+{"id":"0:1F81dxFkHummb7XjaVKcE5w2vcEKguAK8qYiyxF3Lxn5fxRsVhT-ypFcax_utAcXb34vZNMdDO53ND_qZaFOSsA"}Array
+(
+    [report] => true
+    [message] => email
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564306220,"text":"email"}Array
+(
+    [text] => e may co bai nhac nao hay khong
+    [type] => message
+    [timestamp] => 2019-07-28T09:32:14.006Z
+    [id] => 1564306334000
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => e may co bai nhac nao hay khong
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564306334000","text":" Teaching Bot AI to not understand "}Array
+(
+    [text] => <a href="http://localhost:5000/test.php">http://localhost:5000/test.php</a>
+    [type] => message
+    [timestamp] => 2019-07-28T09:37:58.518Z
+    [id] => 1564306678397
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <a href="http://localhost:5000/test.php">http://localhost:5000/test.php</a>
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564306678397","text":"Bot AI did not understand the word "}Array
+(
+    [type] => conversationUpdate
+    [id] => 1ZXxREV1xwt
+    [timestamp] => 2019-07-28T09:39:31.1050431Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@-d4u23rTDNc
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1u2fkJziBOyD3IyIfDzzfK-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1ZXxREV1xwt","text":" Teaching Bot AI to not understand "}Array
+(
+    [type] => conversationUpdate
+    [id] => 1XYrRFbkTVo
+    [timestamp] => 2019-07-28T09:39:35.4343119Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => r_7gj4m4a2jl
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1u2fkJziBOyD3IyIfDzzfK-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1XYrRFbkTVo","text":" Bot AI is sad, can't answer? "}Array
+(
+    [type] => message
+    [id] => 1u2fkJziBOyD3IyIfDzzfK-e|0000000
+    [timestamp] => 2019-07-28T09:39:35.4343119Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_7gj4m4a2jl
+            [role] => user
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en-US
+    [text] => hi bot
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsListening] => 1
+                    [supportsTts] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityID] => 15643067754110.ebb01ivh69o
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1u2fkJziBOyD3IyIfDzzfK-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1u2fkJziBOyD3IyIfDzzfK-e|0000000","text":" Bot AI is sad, can't answer? "}Array
+(
+    [type] => message
+    [id] => 1u2fkJziBOyD3IyIfDzzfK-e|0000001
+    [timestamp] => 2019-07-28T09:39:51.1733657Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_7gj4m4a2jl
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [locale] => en-US
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => image/jpeg
+                    [contentUrl] => https://webchat.botframework.com/attachments/1u2fkJziBOyD3IyIfDzzfK-e/0000001/0/5acadc92f3c7d.image.jpg?t=ew0KICAiYWxnIjogIlJTMjU2IiwNCiAgImtpZCI6ICJBT08tZXhGd2puR3lDTEJhOTgwVkxOME1tUTgiLA0KICAieDV0IjogIkFPTy1leEZ3am5HeUNMQmE5ODBWTE4wTW1ROCIsDQogICJ0eXAiOiAiSldUIg0KfQ.ew0KICAiYm90IjogIkFJLUJPVFMiLA0KICAic2l0ZSI6ICItZDR1MjNyVEROYyIsDQogICJjb252IjogIjF1MmZrSnppQk95RDNJeUlmRHp6ZkstZS0wMDAwMDAxIiwNCiAgIm9yaWdpbiI6ICJodHRwczovL3dlYmNoYXQuYm90ZnJhbWV3b3JrLmNvbS8iLA0KICAibmJmIjogMTU2NDMwNjc5MSwNCiAgImV4cCI6IDE1NjQzMDg1OTEsDQogICJpc3MiOiAiaHR0cHM6Ly93ZWJjaGF0LmJvdGZyYW1ld29yay5jb20vIiwNCiAgImF1ZCI6ICJodHRwczovL3dlYmNoYXQuYm90ZnJhbWV3b3JrLmNvbS8iDQp9.HbygFNMDRqfemuQP7CW34LPkGhEg2Pq-J7_JcbWCFHjzxPaOtsmuNqrH48znxlj11Qas9vui9n_zw133XFW2Z71cX3DJ85AlTGltcOyykYfrw8WzEduYW66RvobiID1b4KgEmD-lhBnOTxVbRAcpTl8FlgqQQlA3DQtG5yfW8dyYIjV1T6eIme091bL_m4x4LfE5RidfL-7bt39UYDrk_Jx_HyG6uJn13ycvuiJ0LM88Ozu6Ra6GICdn9PToppD7Mv765sevLlAsGh_ugtQYPnuIHYh0hYoBnPLKY3yhtBdcJ7DTlUa5Mw00csD6jW7vuGBAOncpFKB4VCg2e5wyAw
+                    [name] => fromClient::5acadc92f3c7d.image.jpg
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityID] => 15643067909650.s0b866paro
+            [attachmentSizes] => Array
+                (
+                    [0] => 184789
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1u2fkJziBOyD3IyIfDzzfK-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1u2fkJziBOyD3IyIfDzzfK-e|0000001","text":"Bot AI did not understand the word "}Array
+(
+    [type] => message
+    [id] => 1u2fkJziBOyD3IyIfDzzfK-e|0000002
+    [timestamp] => 2019-07-28T09:40:07.7149168Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_7gj4m4a2jl
+            [role] => user
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1u2fkJziBOyD3IyIfDzzfK-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en-US
+    [text] => http://localhost:5000/test.php
+    [channelData] => Array
+        (
+            [clientActivityID] => 15643068076980.vlqai5wrnq
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1u2fkJziBOyD3IyIfDzzfK-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1u2fkJziBOyD3IyIfDzzfK-e|0000002","text":" Bot AI is busy studying "}Array
+(
+    [type] => conversationUpdate
+    [id] => ByNZXxAwk4Q
+    [timestamp] => 2019-07-28T09:40:25.1469183Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7R7l5jwtjga64d46q7PczC-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => 7R7l5jwtjga64d46q7PczC-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@-d4u23rTDNc
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"7R7l5jwtjga64d46q7PczC-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"ByNZXxAwk4Q","text":" Teaching Bot AI to not understand "}Array
+(
+    [type] => conversationUpdate
+    [id] => HWidoMxMm61
+    [timestamp] => 2019-07-28T09:42:50.6145264Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@pWv_dkz5IVI
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"HWidoMxMm61","text":" Bot AI is busy studying "}Array
+(
+    [type] => conversationUpdate
+    [id] => Azp74v3i4LX
+    [timestamp] => 2019-07-28T09:42:58.9768607Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 7F56VDkJ3AW
+                    [name] => You
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Azp74v3i4LX","text":"Bot AI did not understand the word "}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000000
+    [timestamp] => 2019-07-28T09:42:58.9768607Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => hi bot
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsTts] => 1
+                    [supportsListening] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.0
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000000","text":" Bot AI is sad, can't answer? "}Array
+(
+    [report] => true
+    [message] => email
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564307142,"text":"email","channelId":null}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000001
+    [timestamp] => 2019-07-28T09:46:02.7210278Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => hi bro
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.2
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000001","text":" Bot AI is sad, can't answer? ","channelId":"webchat"}Array
+(
+    [text] => hii
+    [type] => message
+    [timestamp] => 2019-07-28T09:47:42.852Z
+    [id] => 1564307262856
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => hii
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564307262856","text":" Bot AI is sad, can't answer? ","channelId":"skype"}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000002
+    [timestamp] => 2019-07-28T09:47:55.8966064Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [locale] => en
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => application/octet-stream
+                    [contentUrl] => https://webchat.botframework.com/attachments/6IYNRnt6lERAknwA2CABYE-n/0000002/0/2019_04_06_11.sql?t=ew0KICAiYWxnIjogIlJTMjU2IiwNCiAgImtpZCI6ICJBT08tZXhGd2puR3lDTEJhOTgwVkxOME1tUTgiLA0KICAieDV0IjogIkFPTy1leEZ3am5HeUNMQmE5ODBWTE4wTW1ROCIsDQogICJ0eXAiOiAiSldUIg0KfQ.ew0KICAiYm90IjogIkFJLUJPVFMiLA0KICAic2l0ZSI6ICJwV3ZfZGt6NUlWSSIsDQogICJjb252IjogIjZJWU5SbnQ2bEVSQWtud0EyQ0FCWUUtbi0wMDAwMDAyIiwNCiAgIm5iZiI6IDE1NjQzMDcyNzUsDQogICJleHAiOiAxNTY0MzA5MDc1LA0KICAiaXNzIjogImh0dHBzOi8vd2ViY2hhdC5ib3RmcmFtZXdvcmsuY29tLyIsDQogICJhdWQiOiAiaHR0cHM6Ly93ZWJjaGF0LmJvdGZyYW1ld29yay5jb20vIg0KfQ.gu9mrLKgyBJJBxR5oEl2XdKb0VVpbnVqznmzvnu8v63qY8TznMPu85N71h_4drrC6aMaNWRSY0h2P_VKGodFQ1x5wqqM25x6VidHOJ60xqu82FR4BH_nsyKtPq0ggddCF3VSpyV5sCkjAJGALi8L0vE41Dl3U1Yv2rVHmkoIbcCXCL7oI2MWVJ0aOIhaZSrUFMlwZ2QV0GeVXmW174l4sm7mtaVErj2bp6axEhmj3Osayn17vReTDu9l6SntRwMxz908pR3KGywCBMAO-FSnwmGgGWt8fniIHrPuZwH9xJh3NU67VpMaugLVowEsn-H4fxGaJcS_jwicFHOKk9NXKQ
+                    [name] => fromClient::2019_04_06_11.sql
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.4
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000002","text":"Bot AI did not understand the word ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000003
+    [timestamp] => 2019-07-28T09:50:12.9823995Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => hii
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.6
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000003","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000004
+    [timestamp] => 2019-07-28T09:51:04.5864357Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [locale] => en
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => image/jpeg
+                    [contentUrl] => https://webchat.botframework.com/attachments/6IYNRnt6lERAknwA2CABYE-n/0000004/0/5acadc92f3c7d.image.jpg?t=ew0KICAiYWxnIjogIlJTMjU2IiwNCiAgImtpZCI6ICJBT08tZXhGd2puR3lDTEJhOTgwVkxOME1tUTgiLA0KICAieDV0IjogIkFPTy1leEZ3am5HeUNMQmE5ODBWTE4wTW1ROCIsDQogICJ0eXAiOiAiSldUIg0KfQ.ew0KICAiYm90IjogIkFJLUJPVFMiLA0KICAic2l0ZSI6ICJwV3ZfZGt6NUlWSSIsDQogICJjb252IjogIjZJWU5SbnQ2bEVSQWtud0EyQ0FCWUUtbi0wMDAwMDA0IiwNCiAgIm5iZiI6IDE1NjQzMDc0NjQsDQogICJleHAiOiAxNTY0MzA5MjY0LA0KICAiaXNzIjogImh0dHBzOi8vd2ViY2hhdC5ib3RmcmFtZXdvcmsuY29tLyIsDQogICJhdWQiOiAiaHR0cHM6Ly93ZWJjaGF0LmJvdGZyYW1ld29yay5jb20vIg0KfQ.SVqZQmAFJRNexH2IRTN1gCqM9wMOybyRk7dsV8Qc6fuEF947RL1dVuVw9Dh179yKmt38M5T2gsmaf5a1-e6R-luT1DLBQaNIYCYxZYYVxBqtFVKUsQXB6XHqhvqSWcHWxhnzBGzjb7dDQHywIhimezvTZmfwpxBiuKWsJ-bEb5DGEjn1wQrq_KBJLpstZW1YKHUGHUluvSCml12wTB2kTViiQBlfF6iW4gQ5p01wYIE87plquNqc154ltMth0HDhhvBOJV66SAAqloBbaGLnWn2Ve6Oq3N3Ct7KCdAKViU_L4u_0BileWIlSLvcZjCK6qtXxb-DQY-mH8YuCWW3YmQ
+                    [name] => fromClient::5acadc92f3c7d.image.jpg
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.8
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000004","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => 6IYNRnt6lERAknwA2CABYE-n|0000005
+    [timestamp] => 2019-07-28T09:56:02.1923211Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => 6IYNRnt6lERAknwA2CABYE-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [locale] => en
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => application/octet-stream
+                    [contentUrl] => https://webchat.botframework.com/attachments/6IYNRnt6lERAknwA2CABYE-n/0000005/0/2019_04_06_11.sql?t=ew0KICAiYWxnIjogIlJTMjU2IiwNCiAgImtpZCI6ICJBT08tZXhGd2puR3lDTEJhOTgwVkxOME1tUTgiLA0KICAieDV0IjogIkFPTy1leEZ3am5HeUNMQmE5ODBWTE4wTW1ROCIsDQogICJ0eXAiOiAiSldUIg0KfQ.ew0KICAiYm90IjogIkFJLUJPVFMiLA0KICAic2l0ZSI6ICJwV3ZfZGt6NUlWSSIsDQogICJjb252IjogIjZJWU5SbnQ2bEVSQWtud0EyQ0FCWUUtbi0wMDAwMDA1IiwNCiAgIm5iZiI6IDE1NjQzMDc3NjIsDQogICJleHAiOiAxNTY0MzA5NTYyLA0KICAiaXNzIjogImh0dHBzOi8vd2ViY2hhdC5ib3RmcmFtZXdvcmsuY29tLyIsDQogICJhdWQiOiAiaHR0cHM6Ly93ZWJjaGF0LmJvdGZyYW1ld29yay5jb20vIg0KfQ.G6tadqO-hcjjOfQbGS-bZn8OSMlOn18c7W2Z_DwRLl-iB_5rW0xzllyaPW7qiCSonfRD_Lt_Rwfjn1orPLynzC4DCYz2d76SViIkkOG7NkwmzUsLM9DNtaR_6k6jZAp9op991-Hx7BREQlgBCaT0GW3QsVR8Jf4KOkMRRiPWd8pqMLekAXkf1uT6pPq0bRSETIuy5JBlqki0zHrb7WOsn9ZffGCHslZDHpE6fBmaWB9W6Rn9P7zqk7iEbL0mVGdRMOu5xf76L-li3qijF8utOBqGrnFbJcYQpk_sy_SnMYhPT78nc7aj_4_olEixH12vXOelhJciMi4qoEjuurhWaw
+                    [name] => fromClient::2019_04_06_11.sql
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564306970519.7990994321406135.10
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"6IYNRnt6lERAknwA2CABYE-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"6IYNRnt6lERAknwA2CABYE-n|0000005","text":" Teaching Bot AI to not understand ","channelId":"webchat"}Array
+(
+    [report] => true
+    [message] => display http://link
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564308062,"text":"display http:\/\/link","channelId":null}Array
+(
+    [report] => true
+    [message] => http://link
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564308083,"text":"http:\/\/link","channelId":null}Array
+(
+    [report] => true
+    [message] => [display text](http://ww.bing.com)
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":1564308112,"text":"[display text](http:\/\/ww.bing.com)","channelId":null}Array
+(
+    [text] => ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam
+    [type] => message
+    [timestamp] => 2019-07-28T10:05:31.343Z
+    [id] => 1564308331339
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [address] => ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam
+                    [geo] => Array
+                        (
+                            [type] => GeoCoordinates
+                            [latitude] => 10.778185
+                            [longitude] => 106.703003
+                        )
+
+                    [type] => Place
+                )
+
+            [1] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => <location isUserLocation="0" latitude="10778185" longitude="106703003" timeStamp="1564308331219" timezone="Asia/Saigon" locale="en-US" language="en" address="ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam" addressFriendlyName="ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam" shortAddress="ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam" userMri="8:congtrieu_it"><a href="https://www.bing.com/maps/default.aspx?cp=10.778185334685261~106.70300292968753&amp;dir=0&amp;lvl=15&amp;where1=%C4%90%C6%AF%E1%BB%9CNG%20Hai%20B%C3%A0%20Tr%C6%B0ng%20109,%20Th%C3%A0nh%20Ph%E1%BB%91%20H%E1%BB%93%20Ch%C3%AD%20Minh,%20Vi%E1%BB%87t%20Nam">ĐƯỜNG Hai Bà Trưng 109, Thành Phố Hồ Chí Minh, Việt Nam</a></location>
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564308331339","text":"Bot AI did not understand the word ","channelId":"skype"}Array
+(
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => application/octet-stream
+                    [contentUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d8-cb7c76ed11bb6c7355bc2f8a4f07c516/views/original
+                    [thumbnailUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d8-cb7c76ed11bb6c7355bc2f8a4f07c516/views/thumbnail
+                    [name] => BellevueChristianWebsite_5-5-19.xd
+                )
+
+        )
+
+    [type] => message
+    [timestamp] => 2019-07-28T10:09:22.368Z
+    [id] => 1564308562362
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564308562362","text":" Teaching Bot AI to not understand ","channelId":"skype"}Array
+(
+    [type] => conversationUpdate
+    [id] => Bh8AGFkrONL
+    [timestamp] => 2019-07-28T14:21:10.3124602Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => FfGIiQzuCYc3GOPSzqfcy9-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => FfGIiQzuCYc3GOPSzqfcy9-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@pWv_dkz5IVI
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"FfGIiQzuCYc3GOPSzqfcy9-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Bh8AGFkrONL","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => EC9iUrXxk6R
+    [timestamp] => 2019-07-28T14:25:46.6950864Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Kwxv9wNQIzd1IpQrDbziMX-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => Kwxv9wNQIzd1IpQrDbziMX-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@pWv_dkz5IVI
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Kwxv9wNQIzd1IpQrDbziMX-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"EC9iUrXxk6R","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => 7a2KBbkmwXS
+    [timestamp] => 2019-07-28T14:42:15.2350671Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Kwxv9wNQIzd1IpQrDbziMX-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => Kwxv9wNQIzd1IpQrDbziMX-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 7F56VDkJ3AW
+                    [name] => You
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Kwxv9wNQIzd1IpQrDbziMX-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"7a2KBbkmwXS","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => Kwxv9wNQIzd1IpQrDbziMX-n|0000000
+    [timestamp] => 2019-07-28T14:42:15.2194514Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => Kwxv9wNQIzd1IpQrDbziMX-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => hi
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsTts] => 1
+                    [supportsListening] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564323946588.9080349007883344.0
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Kwxv9wNQIzd1IpQrDbziMX-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Kwxv9wNQIzd1IpQrDbziMX-n|0000000","text":"Bot AI did not understand the word ","channelId":"webchat"}Array
+(
+    [text] => bai hat song gio
+    [type] => message
+    [timestamp] => 2019-07-28T15:26:35.957Z
+    [id] => 1564327595953
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat song gio
+        )
+
+    [locale] => en-US
+)
+{"error":{"code":"BadArgument","message":"Unknown attachment type"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"audio\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/b800471a6d5d8403dd4c\/1145597756150434004?authen=exp=1564414001~acl=\/b800471a6d5d8403dd4c\/*~hmac=bfd9e66e3af49f3be0020489ef8864e7","name":"sanphamweb.com","thumbnailUrl":""}],"replyToId":"1564327595953","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T15:28:24.667Z
+    [id] => 1564327704658
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+{"error":{"code":"BadArgument","message":"Unknown attachment type"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"audio\/wav","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/a4ffc643ef04065a5f15\/2449734278867374447?authen=exp=1564414109~acl=\/a4ffc643ef04065a5f15\/*~hmac=166a96d6f829c49f229101021dd9accc","name":"sanphamweb.com","thumbnailUrl":""}],"replyToId":"1564327704658","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat song gio
+    [type] => message
+    [timestamp] => 2019-07-28T15:35:50.105Z
+    [id] => 1564328150101
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat song gio
+        )
+
+    [locale] => en-US
+)
+{"error":{"code":"BadArgument","message":"Unknown attachment type"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"audio\/wav","contentUrl":null,"name":"sanphamweb.com","thumbnailUrl":""}],"replyToId":"1564328150101","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T15:38:21.72Z
+    [id] => 1564328301713
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp4","contentUrl":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564462957~acl=\/QCAmCH_aEv4\/*~hmac=91ae3454b9a149b12d56cc6ea409260f","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":"1564328301713","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T15:42:47.979Z
+    [id] => 1564328567982
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/b800471a6d5d8403dd4c\/1145597756150434004?authen=exp=1564412241~acl=\/b800471a6d5d8403dd4c\/*~hmac=f83d35eccf70bb4b37c055056994ca05","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"}],"replyToId":"1564328567982","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T15:52:05.578Z
+    [id] => 1564329125570
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+{"error":{"code":"BadSyntax","message":"Invalid attachment URI: "}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"{","name":"duck-on-a-rock.jpg","thumbnailUrl":"{"}],"replyToId":"1564329125570","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat song gio
+    [type] => message
+    [timestamp] => 2019-07-28T15:54:00.705Z
+    [id] => 1564329240696
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat song gio
+        )
+
+    [locale] => en-US
+)
+{"error":{"code":"BadSyntax","message":"Invalid attachment URI: "}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"{","name":"duck-on-a-rock.jpg","thumbnailUrl":"{"}],"replyToId":"1564329240696","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat song gio
+    [type] => message
+    [timestamp] => 2019-07-28T15:55:58.314Z
+    [id] => 1564329358307
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat song gio
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/b800471a6d5d8403dd4c\/1145597756150434004?authen=exp=1564415645~acl=\/b800471a6d5d8403dd4c\/*~hmac=929663403a24ee6259c35ca69d42e27d","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/8\/3\/6\/c\/836cf31f036fb8f89b78cfd07cd77477.jpg"}],"replyToId":"1564329358307","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T15:57:19.973Z
+    [id] => 1564329439964
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/a4ffc643ef04065a5f15\/2449734278867374447?authen=exp=1564415845~acl=\/a4ffc643ef04065a5f15\/*~hmac=c2f2979869e1836d5e0798b4b61192ed","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/2\/1\/2\/6\/21267c6b94e139d322ae3ff918f9202e.jpg"}],"replyToId":"1564329439964","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat sao em vo tinh
+    [type] => message
+    [timestamp] => 2019-07-28T15:58:37.217Z
+    [id] => 1564329517216
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat sao em vo tinh
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/0fa1213a097de023b96c\/2819329265115630931?authen=exp=1564415831~acl=\/0fa1213a097de023b96c\/*~hmac=5838d267560b94313c4258e35b46f023","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/6\/4\/b\/0\/64b07402c2aa540b897b1b8b4db3155a.jpg"}],"replyToId":"1564329517216","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat yeu la tha thu
+    [type] => message
+    [timestamp] => 2019-07-28T16:05:36.786Z
+    [id] => 1564329936784
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat yeu la tha thu
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/75254b0596417f1f2650\/5122215973118161810?authen=exp=1564416342~acl=\/75254b0596417f1f2650\/*~hmac=8cd9ea8288dd9bf53231dd80fbdf076b","name":"duck-on-a-rock.jpg","thumbnailUrl":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/covers\/c\/c\/ccba0ba0430c375e16e95309cd534c09_1492130923.jpg"}],"replyToId":"1564329936784","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T16:08:24.941Z
+    [id] => 1564330104925
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"video\/mp3","contentUrl":"https:\/\/mp3-s1-zmp3.zadn.vn\/79cec7744e30a76efe21\/561239208516760182?authen=exp=1564416509~acl=\/79cec7744e30a76efe21\/*~hmac=fe075bcfa847199a3d75a73c2bcaa4b4","name":"duck-on-a-rock.jpg","thumbnailUrl":null}],"replyToId":"1564330104925","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat dung yeu nua em met roi
+    [type] => message
+    [timestamp] => 2019-07-28T16:29:53.988Z
+    [id] => 1564331393985
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat dung yeu nua em met roi
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","media":[{"url":"https:\/\/vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn\/97366d7f4738ae66f729\/465611020948694906?authen=exp=1564278347~acl=\/97366d7f4738ae66f729\/*~hmac=de1d504047a22d1ea0e0e93fe8260c94"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564331393985","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T16:35:07.352Z
+    [id] => 1564331707347
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+{"id":"0:1QWqJtBjyEnLzIblhcaYWPHOXM3i2nAeW4EFS6ocMD-gEQDH_zvGmeVXqzbjvX_18"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[],"replyToId":"1564331707347","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T16:37:06.146Z
+    [id] => 1564331826146
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"},"media":[{"url":"https:\/\/vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn\/97366d7f4738ae66f729\/465611020948694906?authen=exp=1564278347~acl=\/97366d7f4738ae66f729\/*~hmac=de1d504047a22d1ea0e0e93fe8260c94"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564331826146","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+
+
+    [type] => message
+    [timestamp] => 2019-07-28T16:39:21.281Z
+    [id] => 1564331961272
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+
+
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Allegro in C Major","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"},"media":[{"url":"{"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564331961272","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T16:45:31.648Z
+    [id] => 1564332331558
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":null,"subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/79cec7744e30a76efe21\/561239208516760182?authen=exp=1564418737~acl=\/79cec7744e30a76efe21\/*~hmac=42156f211aba51092c0414fcf9cfdf6c"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564332331558","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T16:51:22.669Z
+    [id] => 1564332682660
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/79cec7744e30a76efe21/561239208516760182?authen=exp=1564419088~acl=/79cec7744e30a76efe21/*~hmac=d98c761b485a19b98c875a688a518cd5
+    [thumbnail] => 
+    [type] => audio
+    [title] => 
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":null,"subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":null},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/79cec7744e30a76efe21\/561239208516760182?authen=exp=1564419088~acl=\/79cec7744e30a76efe21\/*~hmac=d98c761b485a19b98c875a688a518cd5"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564332682660","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T17:01:54.939Z
+    [id] => 1564333314845
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/79cec7744e30a76efe21/561239208516760182?authen=exp=1564419720~acl=/79cec7744e30a76efe21/*~hmac=c19532c8b9b88fb1de96f35f5e98303d
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/2/c/b/52cbdfb61868464e79f066e911f26501.jpg
+    [type] => audio
+    [title] => 
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":null,"subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/avatars\/5\/2\/c\/b\/52cbdfb61868464e79f066e911f26501.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/79cec7744e30a76efe21\/561239208516760182?authen=exp=1564419720~acl=\/79cec7744e30a76efe21\/*~hmac=c19532c8b9b88fb1de96f35f5e98303d"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564333314845","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T17:03:16.169Z
+    [id] => 1564333396158
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/79cec7744e30a76efe21/561239208516760182?authen=exp=1564419720~acl=/79cec7744e30a76efe21/*~hmac=c19532c8b9b88fb1de96f35f5e98303d
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/2/c/b/52cbdfb61868464e79f066e911f26501.jpg
+    [type] => audio
+    [title] => Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"\u00c1nh N\u1eafng C\u1ee7a Anh (Ch\u1edd Em \u0110\u1ebfn Ng\u00e0y Mai OST)","subtitle":"Allegro Duet","text":"No Image, No Buttons, Autoloop, Autostart, Sharable","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/avatars\/5\/2\/c\/b\/52cbdfb61868464e79f066e911f26501.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/79cec7744e30a76efe21\/561239208516760182?authen=exp=1564419720~acl=\/79cec7744e30a76efe21\/*~hmac=c19532c8b9b88fb1de96f35f5e98303d"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564333396158","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat neu ngay ay
+    [type] => message
+    [timestamp] => 2019-07-28T17:17:14.647Z
+    [id] => 1564334234637
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat neu ngay ay
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/659ad76efc2915774c38/9154281717259436772?authen=exp=1564420640~acl=/659ad76efc2915774c38/*~hmac=ad918c2fa7d33c39a14293b208f99864
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/9/b/f/29bf1c15a2aeacf72a2fa1e84d92f3e9.jpg
+    [type] => audio
+    [title] => Nếu Ngày Ấy
+    [singer] => Soobin Hoàng Sơn
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"N\u1ebfu Ng\u00e0y \u1ea4y","subtitle":"Soobin Ho\u00e0ng S\u01a1n","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/2\/9\/b\/f\/29bf1c15a2aeacf72a2fa1e84d92f3e9.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/659ad76efc2915774c38\/9154281717259436772?authen=exp=1564420640~acl=\/659ad76efc2915774c38\/*~hmac=ad918c2fa7d33c39a14293b208f99864"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564334234637","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video song gio
+    [type] => message
+    [timestamp] => 2019-07-28T17:31:36.387Z
+    [id] => 1564335096298
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video song gio
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/QCAmCH_aEv4/4888379d52dbbb85e2ca/53a0281f655a8c04d54b/480/Song-Gio.mp4?authen=exp=1564507797~acl=/QCAmCH_aEv4/*~hmac=a782e5d4ccc52a919cc49fc0934e9ddd
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/8/0/e/6/80e6bd68d6bbafc06e7cc744a6ece067.jpg
+    [type] => video
+    [title] => Sóng Gió
+    [singer] => Jack, K-ICM
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"S\u00f3ng Gi\u00f3","subtitle":"Jack, K-ICM","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/8\/0\/e\/6\/80e6bd68d6bbafc06e7cc744a6ece067.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/QCAmCH_aEv4\/4888379d52dbbb85e2ca\/53a0281f655a8c04d54b\/480\/Song-Gio.mp4?authen=exp=1564507797~acl=\/QCAmCH_aEv4\/*~hmac=a782e5d4ccc52a919cc49fc0934e9ddd"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564335096298","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video ai la nguoi thuong em
+    [type] => message
+    [timestamp] => 2019-07-28T17:37:29.746Z
+    [id] => 1564335449739
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video ai la nguoi thuong em
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/7H7L8pj6z7I/b9de713a927d7b23226c/fcde11cd4488add6f499/480/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564508255~acl=/7H7L8pj6z7I/*~hmac=a8ae188ae51549eaaa490f55b1fe5ac4
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/5/e/2/5/5e25829d61fcd6e7ae6b489194003124.jpg
+    [type] => video
+    [title] => Ai Là Người Thương Em
+    [singer] => Quân A.P
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Ai L\u00e0 Ng\u01b0\u1eddi Th\u01b0\u01a1ng Em","subtitle":"Qu\u00e2n A.P","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/5\/e\/2\/5\/5e25829d61fcd6e7ae6b489194003124.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/7H7L8pj6z7I\/b9de713a927d7b23226c\/fcde11cd4488add6f499\/480\/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564508255~acl=\/7H7L8pj6z7I\/*~hmac=a8ae188ae51549eaaa490f55b1fe5ac4"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564335449739","text":"Bai hat cua ban","channelId":"skype"}

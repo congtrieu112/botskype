@@ -120,48 +120,134 @@ function build_response($info,$adaptiveCard=null,$messageCard=null,$video=null)
           }';
     }elseif($messageCard) {
         $messageCard = '{
-            "contentType": "application/vnd.microsoft.teams.card.o365connector",
+            "contentType": "application/vnd.microsoft.card.adaptive",
             "content": {
-              "@type": "MessageCard",
-              "@context": "http://schema.org/extensions",
-              "summary": "Summary",
-              "title": "Connector Card HTML formatting",
-              "sections": [
-                  {
-                      "text": "This is some <strong>bold</strong> text"
-                  },
-                  {
-                      "text": "This is some <em>italic</em> text"
-                  },
-                  {
-                      "text": "This is some <strike>strikethrough</strike> text"
-                  },
-                  {
-                      "text": "<h1>Header 1</h1>\r<h2>Header 2</h2>\r <h3>Header 3</h3>"
-                  },
-                  {
-                      "text": "bullet list <ul><li>text</li><li>text</li></ul>"
-                  },
-                  {
-                      "text": "ordered list <ol><li>text</li><li>text</li></ol>"
-                  },
-                  {
-                      "text": "hyperlink <a href=\"https://www.bing.com/\">Bing</a>"
-                  },
-                  {
-                      "text": "embedded image <img src=\"http://aka.ms/Fo983c\" alt=\"Duck on a rock\"></img>"
-                  },
-                  {
-                      "text": "preformatted text <pre>text</pre>"
-                  },
-                  {
-                      "text": "Paragraphs <p>Line a</p><p>Line b</p>"
-                  },
-                  {
-                      "text": "<blockquote>Blockquote text</blockquote>"
+              "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+              "type": "AdaptiveCard",
+              "version": "1.0",
+              "body": [
+                {
+                  "type": "Container",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "Publish Adaptive Card schema",
+                      "weight": "bolder",
+                      "size": "medium"
+                    },
+                    {
+                      "type": "ColumnSet",
+                      "columns": [
+                        {
+                          "type": "Column",
+                          "width": "auto",
+                          "items": [
+                            {
+                              "type": "Image",
+                              "url": "https://pbs.twimg.com/profile_images/3647943215/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg",
+                              "size": "small",
+                              "style": "person"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "Column",
+                          "width": "stretch",
+                          "items": [
+                            {
+                              "type": "TextBlock",
+                              "text": "Matt Hidinger",
+                              "weight": "bolder",
+                              "wrap": true
+                            },
+                            {
+                              "type": "TextBlock",
+                              "spacing": "none",
+                              "text": "Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}",
+                              "isSubtle": true,
+                              "wrap": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.",
+                      "wrap": true
+                    },
+                    {
+                      "type": "FactSet",
+                      "facts": [
+                        {
+                          "title": "Board:",
+                          "value": "Adaptive Card"
+                        },
+                        {
+                          "title": "List:",
+                          "value": "Backlog"
+                        },
+                        {
+                          "title": "Assigned to:",
+                          "value": "Matt Hidinger"
+                        },
+                        {
+                          "title": "Due date:",
+                          "value": "Not set"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": "Action.ShowCard",
+                  "title": "Set due date",
+                  "card": {
+                    "type": "AdaptiveCard",
+                    "body": [
+                      {
+                        "type": "Input.Date",
+                        "id": "dueDate"
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "type": "Action.Submit",
+                        "title": "OK"
+                      }
+                    ]
                   }
-               ]
-            }
+                },
+                {
+                  "type": "Action.ShowCard",
+                  "title": "Comment",
+                  "card": {
+                    "type": "AdaptiveCard",
+                    "body": [
+                      {
+                        "type": "Input.Text",
+                        "id": "comment",
+                        "isMultiline": true,
+                        "placeholder": "Enter your comment"
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "type": "Action.Submit",
+                        "title": "OK"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }  
           }'; 
     }
     else if($video){
@@ -313,7 +399,7 @@ function response()
 		if(!$req && isset($_REQUEST) && $_REQUEST){
 			$req = $_REQUEST;
 		}
-    file_put_contents(__DIR__."/log.txt",print_r($req, true), FILE_APPEND);
+    file_put_contents(__DIR__."/log.txt",print_r(json_encode(  $req), true), FILE_APPEND);
     if ($req) {
         if (isset($req["username"])) {
             $message = "User $req[username] close connect\r\n";
@@ -323,7 +409,7 @@ function response()
             sendLog($message,"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"); // id congtrieu_it
         }elseif(isset($req["report"])) {
 					$message = "$req[message]";
-					sendLog($message,"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"); //id congtrieu_it
+					sendLog($message,"Jvw6P2jEhH6A2e0MMLdIGj-e"); //id congtrieu_it
 		}elseif(isset($req["search"])){
             $result = searchGoogle($req["search"]);
             $req["search"] = "co vao day";
@@ -350,12 +436,12 @@ function sendLog($message,$id)
 {
     date_default_timezone_set('Asia/Ho_Chi_Minh');
     $req = [];
-    $req["serviceUrl"] = "https://smba.trafficmanager.net/apis/";
+    $req["serviceUrl"] = "https://webchat.botframework.com/";//"https://smba.trafficmanager.net/apis/";
     $req["conversation"]["id"] = $id;//"19:e0c7cd93153a4bf8a7fb0615363f8b1c@thread.skype"; // cong trieu; "19:7f0f6f21aa4a4b6ca68b2cbeaefdcb3e@thread.skype"; // id  cad-lite-group
     $req["id"] = time();
 
     $res = [];
-    $res = build_response($req,null,null,true);
+    $res = build_response($req,null,true,null);
     $res["text"] = $message;
     reply($req, $res);
 

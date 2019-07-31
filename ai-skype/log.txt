@@ -2907,4 +2907,1394 @@ Array
     [title] => Ai Là Người Thương Em
     [singer] => Quân A.P
 )
-{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Ai L\u00e0 Ng\u01b0\u1eddi Th\u01b0\u01a1ng Em","subtitle":"Qu\u00e2n A.P","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/5\/e\/2\/5\/5e25829d61fcd6e7ae6b489194003124.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/7H7L8pj6z7I\/b9de713a927d7b23226c\/fcde11cd4488add6f499\/480\/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564508255~acl=\/7H7L8pj6z7I\/*~hmac=a8ae188ae51549eaaa490f55b1fe5ac4"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564335449739","text":"Bai hat cua ban","channelId":"skype"}
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Ai L\u00e0 Ng\u01b0\u1eddi Th\u01b0\u01a1ng Em","subtitle":"Qu\u00e2n A.P","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/5\/e\/2\/5\/5e25829d61fcd6e7ae6b489194003124.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/7H7L8pj6z7I\/b9de713a927d7b23226c\/fcde11cd4488add6f499\/480\/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564508255~acl=\/7H7L8pj6z7I\/*~hmac=a8ae188ae51549eaaa490f55b1fe5ac4"}],"shareable":true,"autoloop":true,"autostart":true,"value":[]}}],"replyToId":"1564335449739","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [type] => conversationUpdate
+    [id] => AJ7UA8tOzEb
+    [timestamp] => 2019-07-28T17:50:34.3223638Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Hc3QOBieXsjJ8MsETK536B-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => Hc3QOBieXsjJ8MsETK536B-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@-d4u23rTDNc
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Hc3QOBieXsjJ8MsETK536B-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"AJ7UA8tOzEb","text":"Bot AI did not understand the word ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => Ca3qYubuIDf
+    [timestamp] => 2019-07-28T17:50:39.6751209Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Hc3QOBieXsjJ8MsETK536B-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => Hc3QOBieXsjJ8MsETK536B-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => r_rk0h8bbgf7
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Hc3QOBieXsjJ8MsETK536B-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Ca3qYubuIDf","text":"Bot AI did not understand the word ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => Hc3QOBieXsjJ8MsETK536B-e|0000000
+    [timestamp] => 2019-07-28T17:50:39.6595031Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_rk0h8bbgf7
+            [role] => user
+        )
+
+    [conversation] => Array
+        (
+            [id] => Hc3QOBieXsjJ8MsETK536B-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en-US
+    [text] => video card
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsListening] => 1
+                    [supportsTts] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityID] => 15643362396460.5surcpq1g4f
+        )
+
+)
+Array
+(
+    [url] => 
+    [thumbnail] => 
+    [type] => audio
+    [title] => 
+    [singer] => 
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Hc3QOBieXsjJ8MsETK536B-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":null,"subtitle":null,"text":"","duration":"PT2M55S","image":{"url":null},"media":[{"url":null}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"Hc3QOBieXsjJ8MsETK536B-e|0000000","text":"Bai hat cua ban","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => 8vqBIilRvZJ
+    [timestamp] => 2019-07-28T17:52:28.6857439Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => LlbVIOUnhwvEfxJElJU510-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => LlbVIOUnhwvEfxJElJU510-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@pWv_dkz5IVI
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"LlbVIOUnhwvEfxJElJU510-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"8vqBIilRvZJ","text":" Teaching Bot AI to not understand ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => FWx2CjbqyD
+    [timestamp] => 2019-07-28T17:52:34.8798607Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => LlbVIOUnhwvEfxJElJU510-n
+        )
+
+    [conversation] => Array
+        (
+            [id] => LlbVIOUnhwvEfxJElJU510-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 7F56VDkJ3AW
+                    [name] => You
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"LlbVIOUnhwvEfxJElJU510-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"FWx2CjbqyD","text":" Bot AI is busy studying ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => LlbVIOUnhwvEfxJElJU510-n|0000000
+    [timestamp] => 2019-07-28T17:52:34.8798607Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 7F56VDkJ3AW
+            [name] => You
+        )
+
+    [conversation] => Array
+        (
+            [id] => LlbVIOUnhwvEfxJElJU510-n
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@pWv_dkz5IVI
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en
+    [text] => video card
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsTts] => 1
+                    [supportsListening] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityId] => 1564336348615.32051391279639585.0
+        )
+
+)
+Array
+(
+    [url] => 
+    [thumbnail] => 
+    [type] => audio
+    [title] => 
+    [singer] => 
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"LlbVIOUnhwvEfxJElJU510-n"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":null,"subtitle":null,"text":"","duration":"PT2M55S","image":{"url":null},"media":[{"url":null}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"LlbVIOUnhwvEfxJElJU510-n|0000000","text":"Bai hat cua ban","channelId":"webchat"}Array
+(
+    [text] => video ai la nguoi thuong em
+    [type] => message
+    [timestamp] => 2019-07-28T17:52:59.706Z
+    [id] => 1564336379693
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video ai la nguoi thuong em
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/7H7L8pj6z7I/b9de713a927d7b23226c/fcde11cd4488add6f499/480/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564509184~acl=/7H7L8pj6z7I/*~hmac=24f57861234ed4d99dc86da258541ec6
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/5/e/2/5/5e25829d61fcd6e7ae6b489194003124.jpg
+    [type] => video
+    [title] => Ai Là Người Thương Em
+    [singer] => Quân A.P
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Ai L\u00e0 Ng\u01b0\u1eddi Th\u01b0\u01a1ng Em","subtitle":"Qu\u00e2n A.P","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/5\/e\/2\/5\/5e25829d61fcd6e7ae6b489194003124.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/7H7L8pj6z7I\/b9de713a927d7b23226c\/fcde11cd4488add6f499\/480\/Ai-La-Nguoi-Thuong-Em.mp4?authen=exp=1564509184~acl=\/7H7L8pj6z7I\/*~hmac=24f57861234ed4d99dc86da258541ec6"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564336379693","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video anh nang cua anh
+    [type] => message
+    [timestamp] => 2019-07-28T18:07:51.566Z
+    [id] => 1564337271454
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video anh nang cua anh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/HV53d5K_8Zk/b4a5817a173efe60a72f/df15e801e944001a5955/480/Anh-Nang-Cua-Anh-Cho-Em-Den-N.mp4?authen=exp=1564510076~acl=/HV53d5K_8Zk/*~hmac=9d451ff9ab603f0993c82080673736e4
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/6/b/6bade8110601de30c47dd51084ffc663_1507644631.jpg
+    [type] => video
+    [title] => Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)
+    [singer] => Đức Phúc
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"\u00c1nh N\u1eafng C\u1ee7a Anh (Ch\u1edd Em \u0110\u1ebfn Ng\u00e0y Mai OST)","subtitle":"\u0110\u1ee9c Ph\u00fac","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/6\/b\/6bade8110601de30c47dd51084ffc663_1507644631.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/HV53d5K_8Zk\/b4a5817a173efe60a72f\/df15e801e944001a5955\/480\/Anh-Nang-Cua-Anh-Cho-Em-Den-N.mp4?authen=exp=1564510076~acl=\/HV53d5K_8Zk\/*~hmac=9d451ff9ab603f0993c82080673736e4"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564337271454","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-28T18:10:14.975Z
+    [id] => 1564337414973
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/yj2DUbofY6Q/d98ab5e99daf74f12dbe/0a563856f812114c4803/480/Do-Ta-Khong-Do-Nang.mp4?authen=exp=1564510219~acl=/yj2DUbofY6Q/*~hmac=ef3f13849bb209c6dd7884686cecba02
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/6/5/6/5/65654ffcdcf3a2f4695844abecd565c7.jpg
+    [type] => video
+    [title] => Độ Ta Không Độ Nàng
+    [singer] => Thái Quỳnh
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"\u0110\u1ed9 Ta Kh\u00f4ng \u0110\u1ed9 N\u00e0ng","subtitle":"Th\u00e1i Qu\u1ef3nh","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/6\/5\/6\/5\/65654ffcdcf3a2f4695844abecd565c7.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/yj2DUbofY6Q\/d98ab5e99daf74f12dbe\/0a563856f812114c4803\/480\/Do-Ta-Khong-Do-Nang.mp4?authen=exp=1564510219~acl=\/yj2DUbofY6Q\/*~hmac=ef3f13849bb209c6dd7884686cecba02"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564337414973","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat chao buoi sang
+    [type] => message
+    [timestamp] => 2019-07-28T23:45:24.428Z
+    [id] => 1564357524419
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat chao buoi sang
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/782cb9bbb3ff5aa103ee/4951667058115631517?authen=exp=1564443930~acl=/782cb9bbb3ff5aa103ee/*~hmac=16baae740b1211bb3d93d048e8eefa93
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/9/f9757c74f5e99e83fde386ccbf14b451_1508295691.jpg
+    [type] => audio
+    [title] => Chào Buổi Sáng
+    [singer] => MTV
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Ch\u00e0o Bu\u1ed5i S\u00e1ng","subtitle":"MTV","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/avatars\/f\/9\/f9757c74f5e99e83fde386ccbf14b451_1508295691.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/782cb9bbb3ff5aa103ee\/4951667058115631517?authen=exp=1564443930~acl=\/782cb9bbb3ff5aa103ee\/*~hmac=16baae740b1211bb3d93d048e8eefa93"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564357524419","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [contentType] => image
+                    [contentUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d6-a4347fac51a9229f48aacd5c84c9903e/views/original
+                    [thumbnailUrl] => https://smba.trafficmanager.net/apis/v3/attachments/0-sa-d6-a4347fac51a9229f48aacd5c84c9903e/views/thumbnail
+                    [name] => Screen Shot 2019-07-29 at 8.05.08 AM.png
+                )
+
+        )
+
+    [type] => message
+    [timestamp] => 2019-07-29T01:05:30.944Z
+    [id] => 1564362330853
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [locale] => en-US
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564362330853","text":"Bot AI did not understand the word ","channelId":"skype"}Array
+(
+    [text] =>  bai hat my love
+    [type] => message
+    [timestamp] => 2019-07-29T02:06:20.969Z
+    [id] => 1564365980959
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] =>  bai hat my love
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/75f04ecdd4893dd76498/835011468294084878?authen=exp=1564452386~acl=/75f04ecdd4893dd76498/*~hmac=02d8bf0071d7bfedb17c66d33a4a881d
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/7/774dc61650554e0f9ef29ae0d270a827_1475662842.jpg
+    [type] => audio
+    [title] => LK Touch By Touch - Hey Hello - You're My Love, You're My Life - Self Control
+    [singer] => Đàm Vĩnh Hưng
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"LK Touch By Touch - Hey Hello - You're My Love, You're My Life - Self Control","subtitle":"\u0110\u00e0m V\u0129nh H\u01b0ng","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/covers\/7\/7\/774dc61650554e0f9ef29ae0d270a827_1475662842.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/75f04ecdd4893dd76498\/835011468294084878?authen=exp=1564452386~acl=\/75f04ecdd4893dd76498\/*~hmac=02d8bf0071d7bfedb17c66d33a4a881d"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564365980959","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat sao em vo tinh
+    [type] => message
+    [timestamp] => 2019-07-29T02:07:59.337Z
+    [id] => 1564366079336
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => iOS
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat sao em vo tinh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/0fa1213a097de023b96c/2819329265115630931?authen=exp=1564452484~acl=/0fa1213a097de023b96c/*~hmac=6808072e2d5c0d5f7caa318316892b7e
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/4/b/0/64b07402c2aa540b897b1b8b4db3155a.jpg
+    [type] => audio
+    [title] => Sao Em Vô Tình
+    [singer] => Jack, Liam
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Sao Em V\u00f4 T\u00ecnh","subtitle":"Jack, Liam","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/6\/4\/b\/0\/64b07402c2aa540b897b1b8b4db3155a.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/0fa1213a097de023b96c\/2819329265115630931?authen=exp=1564452484~acl=\/0fa1213a097de023b96c\/*~hmac=6808072e2d5c0d5f7caa318316892b7e"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564366079336","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat chau len ba
+    [type] => message
+    [timestamp] => 2019-07-29T02:53:40.183Z
+    [id] => 1564368820081
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat chau len ba
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/10ecb4356071892fd060/6950984355290008133?authen=exp=1564455225~acl=/10ecb4356071892fd060/*~hmac=30e5e3eee904585b12ff1bdd8dbc6087
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/d/8ded09c76fb4bb707804f49c7dc9dc79_1516170909.jpg
+    [type] => audio
+    [title] => Cháu Lên Ba
+    [singer] => bé Thu Uyên
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Ch\u00e1u L\u00ean Ba","subtitle":"b\u00e9 Thu Uy\u00ean","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/avatars\/8\/d\/8ded09c76fb4bb707804f49c7dc9dc79_1516170909.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/10ecb4356071892fd060\/6950984355290008133?authen=exp=1564455225~acl=\/10ecb4356071892fd060\/*~hmac=30e5e3eee904585b12ff1bdd8dbc6087"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564368820081","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video cho anh them 1 phut
+    [type] => message
+    [timestamp] => 2019-07-29T02:55:20.918Z
+    [id] => 1564368920910
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video cho anh them 1 phut
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/SxwyodjId8g/4fb28b25df63363d6f72/a75950233166d8388177/480/Cho-Anh-Xin-Them-1-Phut.mp4?authen=exp=1564541725~acl=/SxwyodjId8g/*~hmac=b32377b1b6f8b48bc97aa730f0f4f356
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/0/b/9/c/0b9c2d56e39c59701810a25c36d6768b.jpg
+    [type] => video
+    [title] => Cho Anh Xin Thêm 1 Phút
+    [singer] => Trịnh Thăng Bình, Liz Kim Cương
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Cho Anh Xin Th\u00eam 1 Ph\u00fat","subtitle":"Tr\u1ecbnh Th\u0103ng B\u00ecnh, Liz Kim C\u01b0\u01a1ng","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/0\/b\/9\/c\/0b9c2d56e39c59701810a25c36d6768b.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/SxwyodjId8g\/4fb28b25df63363d6f72\/a75950233166d8388177\/480\/Cho-Anh-Xin-Them-1-Phut.mp4?authen=exp=1564541725~acl=\/SxwyodjId8g\/*~hmac=b32377b1b6f8b48bc97aa730f0f4f356"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564368920910","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat my love
+    [type] => message
+    [timestamp] => 2019-07-29T03:29:58.262Z
+    [id] => 1564370998166
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat my love
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/75f04ecdd4893dd76498/835011468294084878?authen=exp=1564457404~acl=/75f04ecdd4893dd76498/*~hmac=9f36efceaf12ca43499f5a62ce08f24e
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/7/774dc61650554e0f9ef29ae0d270a827_1475662842.jpg
+    [type] => audio
+    [title] => LK Touch By Touch - Hey Hello - You're My Love, You're My Life - Self Control
+    [singer] => Đàm Vĩnh Hưng
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"LK Touch By Touch - Hey Hello - You're My Love, You're My Life - Self Control","subtitle":"\u0110\u00e0m V\u0129nh H\u01b0ng","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/covers\/7\/7\/774dc61650554e0f9ef29ae0d270a827_1475662842.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/75f04ecdd4893dd76498\/835011468294084878?authen=exp=1564457404~acl=\/75f04ecdd4893dd76498\/*~hmac=9f36efceaf12ca43499f5a62ce08f24e"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564370998166","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video sao em vo tinh
+    [type] => message
+    [timestamp] => 2019-07-29T04:49:54.817Z
+    [id] => 1564375794808
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video sao em vo tinh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/kEScioLvY90/e88c4e69ad2e44701d3f/21f20ce059a5b0fbe9b4/480/Sao-Em-Vo-Tinh.mp4?authen=exp=1564548599~acl=/kEScioLvY90/*~hmac=ce49b7a21fce77a21c74e22b5ecd3974
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/6/b/7/1/6b71ba5358165078cfa07e902fe1cdc7.jpg
+    [type] => video
+    [title] => Sao Em Vô Tình
+    [singer] => Jack, Liam
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Sao Em V\u00f4 T\u00ecnh","subtitle":"Jack, Liam","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/6\/b\/7\/1\/6b71ba5358165078cfa07e902fe1cdc7.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/kEScioLvY90\/e88c4e69ad2e44701d3f\/21f20ce059a5b0fbe9b4\/480\/Sao-Em-Vo-Tinh.mp4?authen=exp=1564548599~acl=\/kEScioLvY90\/*~hmac=ce49b7a21fce77a21c74e22b5ecd3974"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564375794808","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video bac phan
+    [type] => message
+    [timestamp] => 2019-07-29T06:44:06.019Z
+    [id] => 1564382646020
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video bac phan
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/LAfN49Vzu0I/b9c2cde968ae81f0d8bf/b30b1148c10d2853711c/480/Bac-Phan.mp4?authen=exp=1564555451~acl=/LAfN49Vzu0I/*~hmac=8ea2a8f075ee5fc6481ac80f81a1e2c7
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/2/2/e/8/22e8402961915ff5a64d4c83b64b7a01.jpg
+    [type] => video
+    [title] => Bạc Phận
+    [singer] => Jack, K-ICM
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"B\u1ea1c Ph\u1eadn","subtitle":"Jack, K-ICM","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/2\/2\/e\/8\/22e8402961915ff5a64d4c83b64b7a01.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/LAfN49Vzu0I\/b9c2cde968ae81f0d8bf\/b30b1148c10d2853711c\/480\/Bac-Phan.mp4?authen=exp=1564555451~acl=\/LAfN49Vzu0I\/*~hmac=8ea2a8f075ee5fc6481ac80f81a1e2c7"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564382646020","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video em sai roi anh xin loi em di
+    [type] => message
+    [timestamp] => 2019-07-29T08:09:46.544Z
+    [id] => 1564387786435
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video em sai roi anh xin loi em di
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/bs3ZSvxPkk0/e3b9cf644220ab7ef231/6d2537c02485cddb9494/480/Em-Sai-Roi-Anh-Xin-Loi-Em-Di.mp4?authen=exp=1564560591~acl=/bs3ZSvxPkk0/*~hmac=cca08ed0cd9c3433339fc789a6972a1a
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/1/1/11b54603139edd2e0a5dffaea218aad4_1511747877.jpg
+    [type] => video
+    [title] => Em Sai Rồi Anh Xin Lỗi Em Đi
+    [singer] => Chi Pu
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"Em Sai R\u1ed3i Anh Xin L\u1ed7i Em \u0110i","subtitle":"Chi Pu","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/1\/1\/11b54603139edd2e0a5dffaea218aad4_1511747877.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/bs3ZSvxPkk0\/e3b9cf644220ab7ef231\/6d2537c02485cddb9494\/480\/Em-Sai-Roi-Anh-Xin-Loi-Em-Di.mp4?authen=exp=1564560591~acl=\/bs3ZSvxPkk0\/*~hmac=cca08ed0cd9c3433339fc789a6972a1a"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564387786435","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => video do ta khong do nang
+    [type] => message
+    [timestamp] => 2019-07-29T08:13:49.722Z
+    [id] => 1564388029623
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => video do ta khong do nang
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mcloud-bf-s7-mv-zmp3.zadn.vn/yj2DUbofY6Q/d98ab5e99daf74f12dbe/0a563856f812114c4803/480/Do-Ta-Khong-Do-Nang.mp4?authen=exp=1564560834~acl=/yj2DUbofY6Q/*~hmac=fd43bf905874d9069a5f6569b42105dd
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w600_r300x169_jpeg/thumb_video/6/5/6/5/65654ffcdcf3a2f4695844abecd565c7.jpg
+    [type] => video
+    [title] => Độ Ta Không Độ Nàng
+    [singer] => Thái Quỳnh
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.video","content":{"title":"\u0110\u1ed9 Ta Kh\u00f4ng \u0110\u1ed9 N\u00e0ng","subtitle":"Th\u00e1i Qu\u1ef3nh","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w600_r300x169_jpeg\/thumb_video\/6\/5\/6\/5\/65654ffcdcf3a2f4695844abecd565c7.jpg"},"media":[{"url":"https:\/\/mcloud-bf-s7-mv-zmp3.zadn.vn\/yj2DUbofY6Q\/d98ab5e99daf74f12dbe\/0a563856f812114c4803\/480\/Do-Ta-Khong-Do-Nang.mp4?authen=exp=1564560834~acl=\/yj2DUbofY6Q\/*~hmac=fd43bf905874d9069a5f6569b42105dd"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"16:9"}}],"replyToId":"1564388029623","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat hay trao cho anh
+    [type] => message
+    [timestamp] => 2019-07-29T09:12:54.518Z
+    [id] => 1564391574517
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [platform] => Mac
+                    [timezone] => Asia/Saigon
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat hay trao cho anh
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/850bc951e3160a485307/4403793070997800051?authen=exp=1564477980~acl=/850bc951e3160a485307/*~hmac=f06ef522ed2b0addb2da2d9fd760b58e
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/a/9/6/1a9687997f700f03a66de1f8b6ececac.jpg
+    [type] => audio
+    [title] => Hãy Trao Cho Anh
+    [singer] => Aki Khoa
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"H\u00e3y Trao Cho Anh","subtitle":"Aki Khoa","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/cover\/1\/a\/9\/6\/1a9687997f700f03a66de1f8b6ececac.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/850bc951e3160a485307\/4403793070997800051?authen=exp=1564477980~acl=\/850bc951e3160a485307\/*~hmac=f06ef522ed2b0addb2da2d9fd760b58e"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564391574517","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [text] => bai hat chao ngay  moi
+    [type] => message
+    [timestamp] => 2019-07-30T16:32:45.475Z
+    [id] => 1564504365469
+    [channelId] => skype
+    [serviceUrl] => https://smba.trafficmanager.net/apis/
+    [from] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+            [name] => trieu cong
+        )
+
+    [conversation] => Array
+        (
+            [id] => 29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ
+        )
+
+    [recipient] => Array
+        (
+            [id] => 28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c
+            [name] => AI-BOTS
+        )
+
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [locale] => en-US
+                    [country] => VN
+                    [timezone] => Asia/Bangkok
+                    [type] => clientInfo
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [text] => bai hat chao ngay  moi
+        )
+
+    [locale] => en-US
+)
+Array
+(
+    [url] => https://mp3-s1-zmp3.zadn.vn/f645718078c4919ac8d5/611057759214397444?authen=exp=1564590771~acl=/f645718078c4919ac8d5/*~hmac=11ded5ac90783ca20d828d53461deb4e
+    [thumbnail] => https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/70d4e8646a3c35ecbde3c56a5db76bf1_1359278845.jpg
+    [type] => audio
+    [title] => Chào Một Ngày Mới
+    [singer] => Hồ Quỳnh Hương
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.audio","content":{"title":"Ch\u00e0o M\u1ed9t Ng\u00e0y M\u1edbi","subtitle":"H\u1ed3 Qu\u1ef3nh H\u01b0\u01a1ng","text":"","duration":"PT2M55S","image":{"url":"https:\/\/photo-resize-zmp3.zadn.vn\/w240_r1x1_jpeg\/covers\/7\/0\/70d4e8646a3c35ecbde3c56a5db76bf1_1359278845.jpg"},"media":[{"url":"https:\/\/mp3-s1-zmp3.zadn.vn\/f645718078c4919ac8d5\/611057759214397444?authen=exp=1564590771~acl=\/f645718078c4919ac8d5\/*~hmac=11ded5ac90783ca20d828d53461deb4e"}],"shareable":true,"autoloop":true,"autostart":true,"value":[],"aspect":"4:3"}}],"replyToId":"1564504365469","text":"Bai hat cua ban","channelId":"skype"}Array
+(
+    [report] => true
+    [message] => noi dung
+)
+{"error":{"code":"BadSyntax","message":"Attachment type isn’t supported by channel"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.teams.card.o365connector","content":{"@type":"MessageCard","@context":"http:\/\/schema.org\/extensions","summary":"Summary","title":"Connector Card HTML formatting","sections":[{"text":"This is some <strong>bold<\/strong> text"},{"text":"This is some <em>italic<\/em> text"},{"text":"This is some <strike>strikethrough<\/strike> text"},{"text":"<h1>Header 1<\/h1>\r<h2>Header 2<\/h2>\r <h3>Header 3<\/h3>"},{"text":"bullet list <ul><li>text<\/li><li>text<\/li><\/ul>"},{"text":"ordered list <ol><li>text<\/li><li>text<\/li><\/ol>"},{"text":"hyperlink <a href=\"https:\/\/www.bing.com\/\">Bing<\/a>"},{"text":"embedded image <img src=\"http:\/\/aka.ms\/Fo983c\" alt=\"Duck on a rock\"><\/img>"},{"text":"preformatted text <pre>text<\/pre>"},{"text":"Paragraphs <p>Line a<\/p><p>Line b<\/p>"},{"text":"<blockquote>Blockquote text<\/blockquote>"}]}}],"replyToId":1564504468,"text":"noi dung","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.adaptive","content":{"type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Hello World!","size":"large"},{"type":"TextBlock","text":"*Sincerely yours,*"},{"type":"TextBlock","text":"Adaptive Cards","separation":"none"}],"actions":[{"type":"Action.OpenUrl","url":"http:\/\/adaptivecards.io","title":"Learn More"}]}}],"replyToId":1564504550,"text":"noi dung","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi
+)
+{"error":{"code":"BadArgument","message":"ContentType of an attachment is not set"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"type":"AdaptiveCard","body":[{"type":"TextBlock","id":"textBlock","text":"Select a Color"},{"type":"Input.ChoiceSet","placeholder":"Placeholder text","choices":[{"title":"Green","value":"Green"},{"title":"Red","value":"Red"}],"id":"choiceset","style":"expanded"}],"actions":[{"type":"Action.Submit","id":"submit","title":"Submit","data":{"action":"colorselector"}}],"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json Jump ","version":"1.0"}],"replyToId":1564504860,"text":"noi dung moi","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi ne
+)
+{"error":{"code":"BadArgument","message":"No content in an attachment"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.adaptive","type":"AdaptiveCard","body":[{"type":"TextBlock","id":"textBlock","text":"Select a Color"},{"type":"Input.ChoiceSet","placeholder":"Placeholder text","choices":[{"title":"Green","value":"Green"},{"title":"Red","value":"Red"}],"id":"choiceset","style":"expanded"}],"actions":[{"type":"Action.Submit","id":"submit","title":"Submit","data":{"action":"colorselector"}}],"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json Jump ","version":"1.0"}],"replyToId":1564504942,"text":"noi dung moi ne","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi ne
+)
+{"error":{"code":"BadArgument","message":"Invalid JSON"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[null],"replyToId":1564505062,"text":"noi dung moi ne","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi ne
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.adaptive","type":"AdaptiveCard","content":{"body":[{"type":"TextBlock","id":"textBlock","text":"Select a Color"},{"type":"Input.ChoiceSet","placeholder":"Placeholder text","choices":[{"title":"Green","value":"Green"},{"title":"Red","value":"Red"}],"id":"choiceset","style":"expanded"}],"actions":[{"type":"Action.Submit","id":"submit","title":"Submit","data":{"action":"colorselector"}}]},"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json Jump ","version":"1.0"}],"replyToId":1564505123,"text":"noi dung moi ne","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi nua
+)
+{"error":{"code":"BadArgument","message":"ContentType of an attachment is not set"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Publish Adaptive Card schema","weight":"bolder","size":"medium"},{"type":"ColumnSet","columns":[{"type":"Column","width":"auto","items":[{"type":"Image","url":"https:\/\/pbs.twimg.com\/profile_images\/3647943215\/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg","size":"small","style":"person"}]},{"type":"Column","width":"stretch","items":[{"type":"TextBlock","text":"Matt Hidinger","weight":"bolder","wrap":true},{"type":"TextBlock","spacing":"none","text":"Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}","isSubtle":true,"wrap":true}]}]},{"type":"TextBlock","text":"Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.","wrap":true},{"type":"FactSet","facts":[{"title":"Board:","value":"Adaptive Card"},{"title":"List:","value":"Backlog"},{"title":"Assigned to:","value":"Matt Hidinger"},{"title":"Due date:","value":"Not set"}]}],"actions":[{"type":"Action.ShowCard","title":"Set due date","card":{"type":"AdaptiveCard","body":[{"type":"Input.Date","id":"dueDate"}],"actions":[{"type":"Action.Submit","title":"OK"}]}},{"type":"Action.ShowCard","title":"Comment","card":{"type":"AdaptiveCard","body":[{"type":"Input.Text","id":"comment","isMultiline":true,"placeholder":"Enter your comment"}],"actions":[{"type":"Action.Submit","title":"OK"}]}}]}],"replyToId":1564505289,"text":"noi dung moi nua","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi la
+)
+{"error":{"code":"BadArgument","message":"Unknown attachment type"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.custom","$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Publish Adaptive Card schema","weight":"bolder","size":"medium"},{"type":"ColumnSet","columns":[{"type":"Column","width":"auto","items":[{"type":"Image","url":"https:\/\/pbs.twimg.com\/profile_images\/3647943215\/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg","size":"small","style":"person"}]},{"type":"Column","width":"stretch","items":[{"type":"TextBlock","text":"Matt Hidinger","weight":"bolder","wrap":true},{"type":"TextBlock","spacing":"none","text":"Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}","isSubtle":true,"wrap":true}]}]},{"type":"TextBlock","text":"Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.","wrap":true},{"type":"FactSet","facts":[{"title":"Board:","value":"Adaptive Card"},{"title":"List:","value":"Backlog"},{"title":"Assigned to:","value":"Matt Hidinger"},{"title":"Due date:","value":"Not set"}]}],"actions":[{"type":"Action.ShowCard","title":"Set due date","card":{"type":"AdaptiveCard","body":[{"type":"Input.Date","id":"dueDate"}],"actions":[{"type":"Action.Submit","title":"OK"}]}},{"type":"Action.ShowCard","title":"Comment","card":{"type":"AdaptiveCard","body":[{"type":"Input.Text","id":"comment","isMultiline":true,"placeholder":"Enter your comment"}],"actions":[{"type":"Action.Submit","title":"OK"}]}}]}],"replyToId":1564505572,"text":"noi dung moi la","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi la
+)
+{"error":{"code":"BadArgument","message":"Unknown attachment type"}}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.custom","$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"TextBlock","text":"Publish Adaptive Card schema","weight":"bolder","size":"medium"},{"type":"ColumnSet","columns":[{"type":"Column","width":"auto","items":[{"type":"Image","url":"https:\/\/pbs.twimg.com\/profile_images\/3647943215\/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg","size":"small","style":"person"}]},{"type":"Column","width":"stretch","items":[{"type":"TextBlock","text":"Matt Hidinger","weight":"bolder","wrap":true},{"type":"TextBlock","spacing":"none","text":"Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}","isSubtle":true,"wrap":true}]}]},{"type":"TextBlock","text":"Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.","wrap":true},{"type":"FactSet","facts":[{"title":"Board:","value":"Adaptive Card"},{"title":"List:","value":"Backlog"},{"title":"Assigned to:","value":"Matt Hidinger"},{"title":"Due date:","value":"Not set"}]}],"actions":[{"type":"Action.ShowCard","title":"Set due date","card":{"type":"AdaptiveCard","body":[{"type":"Input.Date","id":"dueDate"}],"actions":[{"type":"Action.Submit","title":"OK"}]}},{"type":"Action.ShowCard","title":"Comment","card":{"type":"AdaptiveCard","body":[{"type":"Input.Text","id":"comment","isMultiline":true,"placeholder":"Enter your comment"}],"actions":[{"type":"Action.Submit","title":"OK"}]}}]}],"replyToId":1564505668,"text":"noi dung moi la","channelId":null}Array
+(
+    [report] => true
+    [message] => noi dung moi la kg
+)
+{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.adaptive","content":{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"Container","items":[{"type":"TextBlock","text":"Publish Adaptive Card schema","weight":"bolder","size":"medium"},{"type":"ColumnSet","columns":[{"type":"Column","width":"auto","items":[{"type":"Image","url":"https:\/\/pbs.twimg.com\/profile_images\/3647943215\/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg","size":"small","style":"person"}]},{"type":"Column","width":"stretch","items":[{"type":"TextBlock","text":"Matt Hidinger","weight":"bolder","wrap":true},{"type":"TextBlock","spacing":"none","text":"Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}","isSubtle":true,"wrap":true}]}]}]},{"type":"Container","items":[{"type":"TextBlock","text":"Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.","wrap":true},{"type":"FactSet","facts":[{"title":"Board:","value":"Adaptive Card"},{"title":"List:","value":"Backlog"},{"title":"Assigned to:","value":"Matt Hidinger"},{"title":"Due date:","value":"Not set"}]}]}],"actions":[{"type":"Action.ShowCard","title":"Set due date","card":{"type":"AdaptiveCard","body":[{"type":"Input.Date","id":"dueDate"}],"actions":[{"type":"Action.Submit","title":"OK"}]}},{"type":"Action.ShowCard","title":"Comment","card":{"type":"AdaptiveCard","body":[{"type":"Input.Text","id":"comment","isMultiline":true,"placeholder":"Enter your comment"}],"actions":[{"type":"Action.Submit","title":"OK"}]}}]}}],"replyToId":1564505727,"text":"noi dung moi la kg","channelId":null}Array
+(
+    [type] => conversationUpdate
+    [id] => Kd9xUzH0nQV
+    [timestamp] => 2019-07-30T16:57:33.2667048Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@-d4u23rTDNc
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Jvw6P2jEhH6A2e0MMLdIGj-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Kd9xUzH0nQV","text":" Teaching Bot AI to not understand ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => KiSVR4Xx59O
+    [timestamp] => 2019-07-30T16:57:36.7854215Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => r_tuhnyjqk7g
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Jvw6P2jEhH6A2e0MMLdIGj-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"KiSVR4Xx59O","text":"Bot AI did not understand the word ","channelId":"webchat"}Array
+(
+    [type] => message
+    [id] => Jvw6P2jEhH6A2e0MMLdIGj-e|0000000
+    [timestamp] => 2019-07-30T16:57:36.7697836Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_tuhnyjqk7g
+            [role] => user
+        )
+
+    [conversation] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en-US
+    [text] => hi
+    [entities] => Array
+        (
+            [0] => Array
+                (
+                    [type] => ClientCapabilities
+                    [requiresBotState] => 1
+                    [supportsListening] => 1
+                    [supportsTts] => 1
+                )
+
+        )
+
+    [channelData] => Array
+        (
+            [clientActivityID] => 15645058566090.koapxryv6cg
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Jvw6P2jEhH6A2e0MMLdIGj-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Jvw6P2jEhH6A2e0MMLdIGj-e|0000000","text":" Bot AI is sad, can't answer? ","channelId":"webchat"}Array
+(
+    [report] => true
+    [message] => noi dung moi la kg
+)
+{"error":{"code":"BadSyntax","message":"Bad format of conversation ID"}}{"type":"message","from":null,"conversation":{"id":"Jvw6P2jEhH6A2e0MMLdIGj-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.adaptive","content":{"$schema":"http:\/\/adaptivecards.io\/schemas\/adaptive-card.json","type":"AdaptiveCard","version":"1.0","body":[{"type":"Container","items":[{"type":"TextBlock","text":"Publish Adaptive Card schema","weight":"bolder","size":"medium"},{"type":"ColumnSet","columns":[{"type":"Column","width":"auto","items":[{"type":"Image","url":"https:\/\/pbs.twimg.com\/profile_images\/3647943215\/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg","size":"small","style":"person"}]},{"type":"Column","width":"stretch","items":[{"type":"TextBlock","text":"Matt Hidinger","weight":"bolder","wrap":true},{"type":"TextBlock","spacing":"none","text":"Created {{DATE(2017-02-14T06:08:39Z, SHORT)}}","isSubtle":true,"wrap":true}]}]}]},{"type":"Container","items":[{"type":"TextBlock","text":"Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.","wrap":true},{"type":"FactSet","facts":[{"title":"Board:","value":"Adaptive Card"},{"title":"List:","value":"Backlog"},{"title":"Assigned to:","value":"Matt Hidinger"},{"title":"Due date:","value":"Not set"}]}]}],"actions":[{"type":"Action.ShowCard","title":"Set due date","card":{"type":"AdaptiveCard","body":[{"type":"Input.Date","id":"dueDate"}],"actions":[{"type":"Action.Submit","title":"OK"}]}},{"type":"Action.ShowCard","title":"Comment","card":{"type":"AdaptiveCard","body":[{"type":"Input.Text","id":"comment","isMultiline":true,"placeholder":"Enter your comment"}],"actions":[{"type":"Action.Submit","title":"OK"}]}}]}}],"replyToId":1564505953,"text":"noi dung moi la kg","channelId":null}Array
+(
+    [type] => message
+    [id] => Jvw6P2jEhH6A2e0MMLdIGj-e|0000001
+    [timestamp] => 2019-07-30T17:19:52.4180026Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => r_tuhnyjqk7g
+            [role] => user
+        )
+
+    [conversation] => Array
+        (
+            [id] => Jvw6P2jEhH6A2e0MMLdIGj-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [textFormat] => plain
+    [locale] => en-US
+    [text] => hi bro
+    [channelData] => Array
+        (
+            [clientActivityID] => 15645071922390.5ossc28k85r
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"Jvw6P2jEhH6A2e0MMLdIGj-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"Jvw6P2jEhH6A2e0MMLdIGj-e|0000001","text":" Teaching Bot AI to not understand ","channelId":"webchat"}Array
+(
+    [type] => conversationUpdate
+    [id] => 3e9UX4WKVsl
+    [timestamp] => 2019-07-30T17:20:49.4400324Z
+    [serviceUrl] => https://webchat.botframework.com/
+    [channelId] => webchat
+    [from] => Array
+        (
+            [id] => 1B9gYeE7m70FhWM5k0UHHc-e
+        )
+
+    [conversation] => Array
+        (
+            [id] => 1B9gYeE7m70FhWM5k0UHHc-e
+        )
+
+    [recipient] => Array
+        (
+            [id] => AI-BOTS@-d4u23rTDNc
+            [name] => AI-BOTS
+        )
+
+    [membersAdded] => Array
+        (
+            [0] => Array
+                (
+                    [id] => AI-BOTS@-d4u23rTDNc
+                    [name] => AI-BOTS
+                )
+
+        )
+
+)
+{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"3e9UX4WKVsl","text":"Bot AI did not understand the word ","channelId":"webchat"}{"type":"conversationUpdate","id":"HV7BSF2Vkk0","timestamp":"2019-07-30T17:27:39.9253599Z","serviceUrl":"https:\/\/webchat.botframework.com\/","channelId":"webchat","from":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":{"id":"AI-BOTS@-d4u23rTDNc","name":"AI-BOTS"},"membersAdded":[{"id":"r_9zv1uwhyvd"}]}{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"HV7BSF2Vkk0","text":"Bot AI did not understand the word ","channelId":"webchat"}{"type":"message","id":"1B9gYeE7m70FhWM5k0UHHc-e|0000000","timestamp":"2019-07-30T17:27:39.9097362Z","serviceUrl":"https:\/\/webchat.botframework.com\/","channelId":"webchat","from":{"id":"r_9zv1uwhyvd","role":"user"},"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":{"id":"AI-BOTS@-d4u23rTDNc","name":"AI-BOTS"},"textFormat":"plain","locale":"en-US","text":"how are you ?","entities":[{"type":"ClientCapabilities","requiresBotState":true,"supportsListening":true,"supportsTts":true}],"channelData":{"clientActivityID":"15645076597320.10kjlcxst2cj"}}{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1B9gYeE7m70FhWM5k0UHHc-e|0000000","text":" Bot AI is sad, can't answer? ","channelId":"webchat"}{"text":"hi","type":"message","timestamp":"2019-07-30T17:38:57.525Z","id":"1564508337109","channelId":"skype","serviceUrl":"https:\/\/smba.trafficmanager.net\/apis\/","from":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ","name":"trieu cong"},"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":{"id":"28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c","name":"AI-BOTS"},"entities":[{"locale":"en-US","country":"VN","timezone":"Asia\/Bangkok","type":"clientInfo"}],"channelData":{"text":"hi"},"locale":"en-US"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564508337109","text":" Bot AI is busy studying ","channelId":"skype"}{"text":"my nam trieu","type":"message","timestamp":"2019-07-30T17:48:09.538Z","id":"1564508889034","channelId":"skype","serviceUrl":"https:\/\/smba.trafficmanager.net\/apis\/","from":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ","name":"trieu cong"},"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":{"id":"28:cd4ac011-0638-4ff4-b27b-f95ad769ed8c","name":"AI-BOTS"},"entities":[{"locale":"en-US","country":"VN","timezone":"Asia\/Bangkok","type":"clientInfo"}],"channelData":{"text":"my nam trieu"},"locale":"en-US"}{"type":"message","from":null,"conversation":{"id":"29:1WFN32csZeW06pnOG_pHWzgpJBuSvQa6A1iAcFqRlrnQ"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1564508889034","text":" Bot AI is busy studying ","channelId":"skype"}{"type":"message","id":"1B9gYeE7m70FhWM5k0UHHc-e|0000025","timestamp":"2019-07-30T17:57:56.1379322Z","serviceUrl":"https:\/\/webchat.botframework.com\/","channelId":"webchat","from":{"id":"r_9zv1uwhyvd","role":"user"},"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":{"id":"AI-BOTS@-d4u23rTDNc","name":"AI-BOTS"},"textFormat":"plain","locale":"en-US","text":"Adaptive Card","channelData":{"clientActivityID":"15645094759360.fg8maqdraga"}}{
+  "error": {
+    "code": "MissingProperty",
+    "message": "The 'from' field is required"
+  }
+}{"type":"message","from":null,"conversation":{"id":"1B9gYeE7m70FhWM5k0UHHc-e"},"recipient":null,"attachments":[{"contentType":"application\/vnd.microsoft.card.hero","content":{"title":"title goes here","subtitle":"subtitle goes here","text":"descriptive text goes here","images":[{"url":"https:\/\/aka.ms\/DuckOnARock","alt":"picture of a duck","tap":{"type":"playAudio","value":"url to an audio track of a duck call goes here"}}],"buttons":[{"type":"playAudio","title":"Duck Call","value":"url to an audio track of a duck call goes here"},{"type":"openUrl","title":"Watch Video","image":"https:\/\/aka.ms\/DuckOnARock","value":"url goes here of the duck in flight"}]}}],"replyToId":"1B9gYeE7m70FhWM5k0UHHc-e|0000025","text":"Bot AI did not understand the word ","channelId":"webchat"}
